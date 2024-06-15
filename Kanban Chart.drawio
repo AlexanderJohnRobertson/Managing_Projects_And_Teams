@@ -1,59 +1,293 @@
-<mxfile host="Electron" modified="2024-06-14T20:14:38.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="-keOM7608tLV2rxz59xq" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2024-06-15T15:11:39.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="0W_Hx6VF_t08dtqtwUJY" version="24.5.3" type="device">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="2594" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-5" value="&lt;span style=&quot;font-size: 27px; font-weight: 400;&quot;&gt;HRMS PROJECT KANBAN CHART S275931&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="240" width="1480" height="1000" as="geometry" />
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-5" value="&lt;span style=&quot;font-size: 27px; font-weight: 400;&quot;&gt;HRMS PROJECT KANBAN CHART S275931&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="240" width="1480" height="1380" as="geometry" />
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-8" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;PLANNED&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-8" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;PLANNED&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
           <mxGeometry x="60" y="45" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-9" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;IN PROGRESS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-9" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;IN PROGRESS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
           <mxGeometry x="600" y="45" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-10" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;TESTING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-10" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;TESTING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
           <mxGeometry x="920" y="45" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-11" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;DONE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-11" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;DONE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
           <mxGeometry x="1235" y="45" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="uo7Kb0WBtwJlGPqxHF-i-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="40" as="sourcePoint" />
-            <mxPoint x="870" y="1000" as="targetPoint" />
+            <mxPoint x="870" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-13" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-13" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="uo7Kb0WBtwJlGPqxHF-i-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1180" y="40" as="sourcePoint" />
-            <mxPoint x="1180" y="1000" as="targetPoint" />
+            <mxPoint x="1180" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
-          <mxGeometry x="20" y="110" width="240" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;exitX=0.135;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;exitX=0.135;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="uo7Kb0WBtwJlGPqxHF-i-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="281.3499999999999" y="42.32999999999993" as="sourcePoint" />
-            <mxPoint x="283" y="1000" as="targetPoint" />
+            <mxPoint x="290" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-16" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;WAITING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-16" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;WAITING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
           <mxGeometry x="320" y="45" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="uo7Kb0WBtwJlGPqxHF-i-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="40" as="sourcePoint" />
-            <mxPoint x="560" y="1000" as="targetPoint" />
+            <mxPoint x="550" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-13" value="FEATURE:&lt;div&gt;Design iOS App&amp;nbsp;&lt;/div&gt;&lt;div&gt;User Interface&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1200" y="100" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-20" value="FEATURE:&lt;div&gt;Design Android App User interface&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1335" y="100" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-19" value="FEATURE:&lt;div&gt;Design Desktop App User Interface&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1200" y="210" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-18" value="FEATURE:&lt;div&gt;Design Web App User Interface&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1335" y="210" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-17" value="FEATURE:&lt;div&gt;Design Software Architecture&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1200" y="320" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-16" value="FEATURE:&lt;div&gt;Design Software Use Case Diagrams&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1335" y="320" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-15" value="FEATURE:&lt;div&gt;Design Software Class Diagrams&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1200" y="430" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-22" value="FEATURE:&lt;div&gt;Design Database ERD Diagrams&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1335" y="430" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-14" value="FEATURE:&lt;div&gt;Design Wireframes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1200" y="540" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-23" value="FEATURE:&lt;div&gt;Design Mockups&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1335" y="540" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-24" value="FEATURE:&lt;div&gt;Backend Server-Side Applications&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1335" y="650" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-25" value="FEATURE:&lt;div&gt;Frontend Server-Side Applications&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1200" y="760" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-26" value="FEATURE:&lt;div&gt;&lt;span style=&quot;text-indent: -24px; font-size: 12pt; line-height: 24px; font-family: Symbol;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-indent: -24px; font-size: 12pt; line-height: 24px; font-family: Arial, sans-serif;&quot;&gt;HR&lt;br&gt;administration&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1200" y="650" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-37" value="FEATURE:&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;Time&lt;/span&gt;&lt;br style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;and attendance management&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1040" y="120" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-36" value="FEATURE:&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;Payroll&lt;/span&gt;&lt;br style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;processing&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="890" y="120" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-40" value="FEATURE:&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;payroll,&lt;/span&gt;&lt;br style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;recruitment&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1040" y="240" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-38" value="FEATURE:&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;Employee&lt;/span&gt;&lt;br style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;data, recruitment, and application tracking&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="600" y="120" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-35" value="FEATURE:&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;Salaries,&lt;/span&gt;&lt;br style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; text-indent: -24px;&quot;&gt;performance, and Benefits tracking&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="730" y="120" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-34" value="FEATURE:&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;Training&lt;/span&gt;&lt;br style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;and development&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="410" y="110" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-39" value="FEATURE:&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;talent&lt;/span&gt;&lt;br style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px; text-indent: -24px;&quot;&gt;management&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="140" y="100" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-48" value="BUG:&lt;div&gt;Server-Side applications crash when loading Payroll processing feature (Python runtime error)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1335" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-49" value="BUG:&lt;div&gt;Navbar unresponsive on Time and Attendance Management web app (incorrect CSS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="890" y="240" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-47" value="BUG:&lt;div&gt;Payroll processing divides salaries by zero giving a runtime error.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="600" y="240" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-46" value="BUG:&lt;div&gt;Updating an employee&#39;s attendance deletes employee&#39;s record from HRMS database (logic error)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="410" y="230" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-1" value="SECURITY BUG:&lt;div&gt;HRMS database vulnrable to SQL injection attacks (vulnrability detected)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="150" y="230" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-45" value="BUG:&lt;div&gt;Recruitment page on web app returns a 404 not found error&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="730" y="240" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-44" value="BUG:&lt;div&gt;HR Administration causes BSOD on Windows desktop app when logging out of HRMS due to memory leak&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="20" y="230" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-43" value="BUG:&lt;div&gt;HRMS installation fails on macOS computers (buggy installer)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1200" y="870" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-5" value="FEATURE:&lt;div style=&quot;text-indent: -24px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Desktop Application (Windows)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="890" y="370" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-4" value="FEATURE:&lt;div style=&quot;text-indent: -24px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Mobile&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial, sans-serif; background-color: initial;&quot;&gt;Application (iOS/iPad OS)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="600" y="360" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-7" value="FEATURE:&lt;div style=&quot;text-indent: -24px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Desktop Application (Linux)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1040" y="370" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-6" value="FEATURE:&lt;div style=&quot;text-indent: -24px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Desktop Application (macOS)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="890" y="500" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-8" value="FEATURE:&lt;div style=&quot;text-indent: -24px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Mobile&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-indent: -24px;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial, sans-serif; background-color: initial;&quot;&gt;Application (Android)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="290" y="110" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-42" value="BUG:&lt;div&gt;Random crashes on iOS app&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="150" y="360" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-9" value="BUG:&lt;div&gt;Docker build fails for Employee data, recruitment and application container&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1040" y="490" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-10" value="BUG:&lt;div&gt;Permission Denied error on AWS for the cloud based components of HRMS due incorrectly configured IAM Roles.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="290" y="230" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-11" value="BUG:&lt;div&gt;Bad usability with UI/UX (design smells) on iOS app when used on iPads based on acceptance testing and client feedback&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="20" y="355" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-12" value="IMPROVEMENTS:&lt;div&gt;Improvements to UI/UX on iOS app&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="20" y="480" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-3" value="IMPROVEMENTS:&lt;div&gt;Fix code on macOS installer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="uo7Kb0WBtwJlGPqxHF-i-5" vertex="1">
+          <mxGeometry x="1335" y="870" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-21" value="IMPROVEMENTS:&lt;div&gt;Make Navbar on Time and Attendance Management web app responsive by fixing CSS and improving HTML&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="890" y="610" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-20" value="IMPROVEMENTS:&lt;div&gt;Fix Python runtime error on Payroll Processing microservice to stop server-side applications crashing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1200" y="980" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-19" value="IMPROVEMENTS:&lt;div&gt;Fix 404 error on recruitment page by adding port to python code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="730" y="360" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-18" value="IMPROVEMENTS:&lt;div&gt;Fix Payroll processing algorithm&#39;s logic to prevent it dividing by zeroand perform the correct calculations&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="600" y="470" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-17" value="IMPROVEMENTS:&lt;div&gt;Fix incorrect SQL code in Attendance Management feature (DELETE FROM was incorrectly typed instead of UPDATE WHERE)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="410" y="380" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-16" value="IMPROVEMENTS:&lt;div&gt;Change incorrect IAM settings to grant permissions to cloud based components&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="290" y="380" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-15" value="IMPROVEMENTS:&lt;div&gt;Fix typo (syntax error) in Dockerfile code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1040" y="610" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-14" value="IMPROVEMENTS:&lt;div&gt;Sanitise SQL inputs, use Safe Query parameters in code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="150" y="480" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-27" value="IMPROVEMENTS:&lt;div&gt;Fix buggy memory management C++ code in Windows application that resulted in memory leaks causing BSOD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="20" y="590" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-26" value="IMPROVEMENTS:&lt;div&gt;Debug the Swift code in the iOS app using the Xcode IDE to fix runtime errors and replace corrupted PLIST files&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="150" y="590" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-35" value="UPDATES:&lt;div&gt;Security patch to fix SQL injection vulnrability&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="150" y="730" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-34" value="UPDATES:&lt;div&gt;Bug fix for Windows application&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="20" y="740" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-37" value="UPDATES:&lt;div&gt;Bug fix and UI/UX improvements for iOS app&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="150" y="840" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-33" value="UPDATES:&lt;div&gt;Bug fix for Attendance Management feature SQL code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="410" y="540" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-32" value="UPDATES:&lt;div&gt;Hotfix for incorrect CSS and HTMLcode in web app to make navbar responsive&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="890" y="760" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-31" value="UPDATES:&lt;div&gt;Rebuild Docker container with correct code in Dockerfile and commit to DockerHub&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1040" y="730" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-30" value="UPDATES:&lt;div&gt;Redeploy recruitment microservice container with port added to Python code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="730" y="470" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-29" value="UPDATES:&lt;div&gt;New Payroll processing microservice container deployed with correct algorithm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="600" y="605" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-28" value="UPDATES:&lt;div&gt;AWS components now working properly&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="290" y="530" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-39" value="UPDATES:&lt;div&gt;Redeployed server applications and containers with bug fixes to Python code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1335" y="970" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-40" value="UPDATES:&lt;div&gt;Bug fixes to macOS installer wizard&#39;s source code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1335" y="1070" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-46" value="MAINTANENCE:&lt;div&gt;Continue updating HRMS software for new features, UI/UX improvements, bug fixes, hotfixes, performance improvements and security patches&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1200" y="1110" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-45" value="MAINTANENCE:&lt;div&gt;Provide technical support to client&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1335" y="1170" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-44" value="MAINTANENCE:&lt;div&gt;Receive feedback from client for improvements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="1200" y="1260" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-123" value="MAINTANENCE:&lt;div&gt;Receive feedback from client for improvements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="20" y="840" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-122" value="MAINTANENCE:&lt;div&gt;Receive feedback from client for improvements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="300" y="640" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-121" value="MAINTANENCE:&lt;div&gt;Receive feedback from client for improvements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="730" y="605" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-120" value="MAINTANENCE:&lt;div&gt;Receive feedback from client for improvements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="900" y="870" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-43" value="MAINTANENCE:&lt;div&gt;Compatability updates for future technologies, hardware, software, cloud platforms, APIs, frameworks, SDKs, programming languages and operating systems&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="20" y="950" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-125" value="BUG:&lt;div&gt;Linux Desktop application freezes when viewing emplooyee records. Application must be force quit.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="420" y="650" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-126" value="IMPROVEMENTS:&lt;div&gt;Fix unwanted infinate loop that loads infinate copies of the employee records from the HRMS database that uses up all ofthe computer&#39;s CPU and RAM usage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="300" y="750" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-127" value="BUG:&lt;div&gt;Very slow to sort employees and other human resources on database by name, address, salary and other attributes, poor performance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="420" y="780" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-128" value="IMPROVEMENTS:&lt;div&gt;Replace current employee and HR sorting algorithm with a more efficient sorting algorithm that is quicker and has better performance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="420" y="940" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-130" value="UPDATES:&lt;div&gt;Bug fix - remove unintended infinate loop from Linux desktop application when viewing employee records&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="300" y="940" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-129" value="UPDATES:&lt;div&gt;Performance improvements - update software with more efficient sorting slgorithm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uo7Kb0WBtwJlGPqxHF-i-5">
+          <mxGeometry x="420" y="1090" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uo7Kb0WBtwJlGPqxHF-i-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-170" y="319" as="sourcePoint" />
             <mxPoint x="1310" y="319" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-1" value="FEATURE:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="320" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-2" value="BUG:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="430" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-4" value="UPDATES:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="650" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I1_2gJ5m5CGF-lCBOzLl-5" value="MAINTANENCE:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="770" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1bTi1n766SySB5sFq5-13" value="IMPROVEMENTS:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="540" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

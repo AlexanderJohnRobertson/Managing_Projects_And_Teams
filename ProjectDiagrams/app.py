@@ -19,6 +19,9 @@ def risk_breakdown_structure():
 def HRMSGanttChart():
     return render_template('hrmsganttchart.html')
 
+@app.route('/kanbanchart')
+def kanban_chart():
+    return render_template('kanbanchart.html')
 
 
 if __name__ == '__main__':
