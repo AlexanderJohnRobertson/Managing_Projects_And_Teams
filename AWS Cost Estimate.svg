@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2508 792">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: .01em;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-8 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12 {
+        fill: none;
+      }
+
+      .cls-9, .cls-11, .cls-12 {
+        stroke: #0273bb;
+        stroke-width: 1.5px;
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-15 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-16 {
+        letter-spacing: 1.46em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-33);
+      }
+
+      .cls-20 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: 1.46em;
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-32);
+      }
+
+      .cls-27 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-28 {
+        letter-spacing: 0em;
+      }
+
+      .cls-29 {
+        letter-spacing: .03em;
+      }
+
+      .cls-30 {
+        letter-spacing: .02em;
+      }
+
+      .cls-31 {
+        letter-spacing: .02em;
+      }
+
+      .cls-32 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-33 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-36 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-37 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-38 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-39 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-40 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-41 {
+        isolation: isolate;
+      }
+
+      .cls-42 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-43 {
+        letter-spacing: 0em;
+      }
+
+      .cls-44 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-45 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-46 {
+        clip-path: url(#clippath-25);
+      }
+
+      .cls-47 {
+        font-size: 12.29px;
+      }
+
+      .cls-47, .cls-48, .cls-49, .cls-50, .cls-51 {
+        fill: #16191e;
+      }
+
+      .cls-47, .cls-48, .cls-49, .cls-52, .cls-51 {
+        font-family: AmazonEmber-Bold, 'AmazonEmber Bold';
+        font-weight: 700;
+      }
+
+      .cls-48 {
+        font-size: 8.71px;
+      }
+
+      .cls-53 {
+        letter-spacing: 0em;
+      }
+
+      .cls-54 {
+        letter-spacing: 0em;
+      }
+
+      .cls-55 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-56 {
+        letter-spacing: .04em;
+      }
+
+      .cls-57 {
+        letter-spacing: .03em;
+      }
+
+      .cls-58 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-59 {
+        letter-spacing: .01em;
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath-26);
+      }
+
+      .cls-61 {
+        letter-spacing: .03em;
+      }
+
+      .cls-62 {
+        fill: #060707;
+      }
+
+      .cls-62, .cls-50, .cls-51 {
+        font-size: 10.5px;
+      }
+
+      .cls-62, .cls-50, .cls-63, .cls-64 {
+        font-family: AmazonEmber-Regular, 'AmazonEmber Regular';
+      }
+
+      .cls-65 {
+        letter-spacing: 0em;
+      }
+
+      .cls-66 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10, .cls-67, .cls-68 {
+        stroke-width: 0px;
+      }
+
+      .cls-69 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-70 {
+        letter-spacing: 0em;
+      }
+
+      .cls-71 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-72 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-73 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-74 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-75 {
+        letter-spacing: 0em;
+      }
+
+      .cls-76 {
+        clip-path: url(#clippath-34);
+      }
+
+      .cls-77 {
+        fill: #000;
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+        font-size: 10px;
+      }
+
+      .cls-78 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-79 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-80 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-81 {
+        letter-spacing: 0em;
+      }
+
+      .cls-82 {
+        letter-spacing: .01em;
+      }
+
+      .cls-49 {
+        font-size: 15.75px;
+      }
+
+      .cls-83 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-84 {
+        clip-path: url(#clippath-27);
+      }
+
+      .cls-85 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-86 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-87 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-88 {
+        letter-spacing: 3.47em;
+      }
+
+      .cls-89 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-90 {
+        letter-spacing: 0em;
+      }
+
+      .cls-91 {
+        letter-spacing: 0em;
+      }
+
+      .cls-92 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-93 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-94 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-95 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-96 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-97 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-11 {
+        stroke-linecap: square;
+      }
+
+      .cls-98 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-99 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-100 {
+        letter-spacing: 0em;
+      }
+
+      .cls-101 {
+        letter-spacing: 0em;
+      }
+
+      .cls-102 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-103 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-104 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-105 {
+        letter-spacing: 4.05em;
+      }
+
+      .cls-106 {
+        clip-path: url(#clippath-30);
+      }
+
+      .cls-107 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-108 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-109 {
+        letter-spacing: .02em;
+      }
+
+      .cls-110 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-111 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-112 {
+        letter-spacing: .03em;
+      }
+
+      .cls-113 {
+        letter-spacing: 0em;
+      }
+
+      .cls-114 {
+        letter-spacing: 0em;
+      }
+
+      .cls-52 {
+        fill: #212428;
+      }
+
+      .cls-52, .cls-63, .cls-64 {
+        font-size: 9px;
+      }
+
+      .cls-115 {
+        letter-spacing: 0em;
+      }
+
+      .cls-116 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-117 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-118 {
+        letter-spacing: 0em;
+      }
+
+      .cls-119 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-120 {
+        letter-spacing: 4.05em;
+      }
+
+      .cls-121 {
+        letter-spacing: .03em;
+      }
+
+      .cls-122 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-63 {
+        fill: #1d1f22;
+      }
+
+      .cls-123 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-124 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-125 {
+        letter-spacing: .02em;
+      }
+
+      .cls-126 {
+        letter-spacing: 0em;
+      }
+
+      .cls-127 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-128 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-129 {
+        letter-spacing: 0em;
+      }
+
+      .cls-130 {
+        clip-path: url(#clippath-31);
+      }
+
+      .cls-131 {
+        letter-spacing: .01em;
+      }
+
+      .cls-132 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-133 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-134 {
+        letter-spacing: 0em;
+      }
+
+      .cls-135 {
+        letter-spacing: .03em;
+      }
+
+      .cls-136 {
+        letter-spacing: 0em;
+      }
+
+      .cls-137 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-12 {
+        stroke-linejoin: round;
+      }
+
+      .cls-138 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-139 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-140 {
+        letter-spacing: 0em;
+      }
+
+      .cls-141 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-142 {
+        letter-spacing: 0em;
+      }
+
+      .cls-67 {
+        fill: #d5dbdb;
+      }
+
+      .cls-68 {
+        fill: #fff;
+      }
+
+      .cls-143 {
+        clip-path: url(#clippath-29);
+      }
+
+      .cls-144 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-145 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-146 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-147 {
+        letter-spacing: 0em;
+      }
+
+      .cls-148 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-149 {
+        letter-spacing: .04em;
+      }
+
+      .cls-150 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-151 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-152 {
+        letter-spacing: 0em;
+      }
+
+      .cls-153 {
+        letter-spacing: 0em;
+      }
+
+      .cls-154 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-155 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-156 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-157 {
+        letter-spacing: 0em;
+      }
+
+      .cls-158 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-159 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-64 {
+        fill: #0273bb;
+      }
+
+      .cls-160 {
+        letter-spacing: 0em;
+      }
+
+      .cls-161 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-162 {
+        letter-spacing: 2.05em;
+      }
+
+      .cls-163 {
+        letter-spacing: 0em;
+      }
+
+      .cls-164 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-165 {
+        letter-spacing: 0em;
+      }
+
+      .cls-166 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-167 {
+        letter-spacing: .03em;
+      }
+
+      .cls-168 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-169 {
+        letter-spacing: .04em;
+      }
+
+      .cls-170 {
+        clip-path: url(#clippath-28);
+      }
+
+      .cls-171 {
+        letter-spacing: .04em;
+      }
+
+      .cls-172 {
+        letter-spacing: .04em;
+      }
+
+      .cls-173 {
+        letter-spacing: .04em;
+      }
+
+      .cls-174 {
+        letter-spacing: 0em;
+      }
+
+      .cls-175 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-10" width="612" height="792"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-10" x="36" y="28.35" width="540" height="735.3"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-10" x="66" y="42.6" width="165" height="24.45"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-10" x="66" y="41.8" width="165" height="26.31"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-10" x="540" y="43.1" width="6" height="5.9"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-10" x="537" y="43.1" width="9" height="8.9"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-10" x="534" y="43.1" width="12" height="11.9"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-10" x="179.62" y="206.8" width="1.5" height="78.01"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-10" x="341.12" y="206.8" width="1.5" height="78.01"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-10" x="66" y="490.89" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-10" x="66" y="639.39" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-10" x="177" y="351.39" width="1.5" height="24"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-10" x="265.5" y="351.39" width="1.5" height="24"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-10" x="354" y="351.39" width="1.5" height="24"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-10" x="442.5" y="351.39" width="1.5" height="24"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-10" x="73" y="754" width="446" height="9.65"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="cls-10" x="632" width="612" height="792"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-10" x="668" y="28.35" width="540" height="735.3"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="cls-10" x="698" y="151.59" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="cls-10" x="705" y="28.35" width="446" height="1.65"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="cls-10" x="705" y="762" width="454" height="1.65"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="cls-10" x="1264" width="612" height="792"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="cls-10" x="1300" y="28.35" width="540" height="735.3"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="cls-10" x="1330" y="125.79" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect class="cls-10" x="1330" y="257.79" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect class="cls-10" x="1330" y="389.79" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect class="cls-10" x="1330" y="505.29" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect class="cls-10" x="1330" y="604.29" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect class="cls-10" x="1330" y="719.79" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect class="cls-10" x="1337" y="28.35" width="454" height="9.65"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect class="cls-10" x="1896" width="612" height="792"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="cls-10" x="1932" y="28.35" width="540" height="89.89"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect class="cls-10" x="2398" y="61" width="5.8" height="5"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect class="cls-10" x="2395" y="61" width="8.8" height="8"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <rect class="cls-10" x="2392" y="61" width="11.8" height="11"/>
+    </clipPath>
+  </defs>
+  <g class="cls-41">
+    <g class="cls-119">
+      <g class="cls-41">
+        <g class="cls-79">
+          <rect class="cls-68" x="36" y="28.35" width="540" height="2295.79"/>
+          <rect class="cls-68" x="36" y="28.35" width="540" height="2295.79"/>
+          <rect class="cls-67" x="66" y="76.05" width="480" height="1.5"/>
+          <rect class="cls-67" x="66" y="157.05" width="478.5" height="1.5"/>
+          <rect class="cls-67" x="544.5" y="157.05" width="1.5" height="127.76"/>
+          <rect class="cls-67" x="67.5" y="284.81" width="478.5" height="1.5"/>
+          <rect class="cls-67" x="66" y="158.55" width="1.5" height="127.76"/>
+          <text class="cls-49" transform="translate(75 184.62)"><tspan x="0" y="0">Estimate summa</tspan><tspan class="cls-171" x="108.83" y="0">r</tspan><tspan x="114.58" y="0">y</tspan></text>
+          <g class="cls-37">
+            <g class="cls-132">
+              <image width="621" height="99" transform="translate(66 41.8) scale(.27)" xlink:href="data:image/png;base64,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"/>
+            </g>
+          </g>
+          <text class="cls-50" transform="translate(308.04 52.1)"><tspan x="0" y="0">Conta</tspan><tspan class="cls-131" x="26.22" y="0">c</tspan><tspan x="31.03" y="0">t </tspan><tspan class="cls-22" x="36.73" y="0">y</tspan><tspan x="41.58" y="0">our </tspan><tspan class="cls-35" x="58.79" y="0">A</tspan><tspan x="64.73" y="0">WS </tspan><tspan class="cls-22" x="81.02" y="0">r</tspan><tspan x="84.36" y="0">ep</tspan><tspan class="cls-85" x="95.59" y="0">r</tspan><tspan x="98.92" y="0">esentati</tspan><tspan class="cls-85" x="133.89" y="0">v</tspan><tspan x="138.84" y="0">e:</tspan></text>
+          <text class="cls-64" transform="translate(476.35 52.1)"><tspan x="0" y="0">Conta</tspan><tspan class="cls-157" x="22.47" y="0">c</tspan><tspan x="26.59" y="0">t Sales</tspan></text>
+          <text class="cls-64" transform="translate(531.64 52.1)"><tspan x="0" y="0"> </tspan></text>
+        </g>
+        <g class="cls-80">
+          <polyline class="cls-11" points="541.5 44.5 544.5 44.5 544.5 47.5"/>
+        </g>
+        <g class="cls-151">
+          <line class="cls-9" x1="538.5" y1="50.5" x2="544.5" y2="44.5"/>
+        </g>
+        <g class="cls-58">
+          <polyline class="cls-12" points="544.5 49.78 544.5 53.5 535.5 53.5 535.5 44.5 539.25 44.5"/>
+        </g>
+        <text class="cls-50" transform="translate(66 96.8)"><tspan x="0" y="0">Expo</tspan><tspan class="cls-57" x="21.77" y="0">r</tspan><tspan x="25.51" y="0">t date:</tspan></text>
+        <text class="cls-51" transform="translate(126.91 96.8)"><tspan x="0" y="0">03/06/2</tspan><tspan class="cls-163" x="34.13" y="0">0</tspan><tspan class="cls-129" x="39.5" y="0">24</tspan></text>
+        <text class="cls-50" transform="translate(457.78 96.8)"><tspan x="0" y="0">Language:</tspan></text>
+        <text class="cls-51" transform="translate(509.63 96.8)"><tspan x="0" y="0">English</tspan></text>
+        <text class="cls-50" transform="translate(66 128.3)"><tspan x="0" y="0">Estimate UR</tspan><tspan class="cls-6" x="52.48" y="0">L</tspan><tspan x="57.55" y="0">:</tspan></text>
+        <text class="cls-51" transform="translate(135.17 128.3)"><tspan x="0" y="0">h</tspan><tspan class="cls-109" x="5.83" y="0">t</tspan><tspan x="9.5" y="0">tps:/</tspan><tspan class="cls-33" x="28.88" y="0">/</tspan><tspan x="31.88" y="0">ca</tspan><tspan class="cls-70" x="41.64" y="0">l</tspan><tspan x="44.03" y="0">culato</tspan><tspan class="cls-122" x="71.29" y="0">r</tspan><tspan x="74.19" y="0">.</tspan><tspan class="cls-78" x="76.37" y="0">a</tspan><tspan x="81.24" y="0">ws/#</tspan><tspan class="cls-15" x="101.94" y="0">/</tspan><tspan x="104.91" y="0">estimate?</tspan></text>
+        <text class="cls-51" transform="translate(66 144.8)"><tspan x="0" y="0">id=25320</tspan><tspan class="cls-31" x="41.57" y="0">c</tspan><tspan x="46.46" y="0">f1aa5a7e7a501c19b9c06</tspan><tspan class="cls-163" x="155.05" y="0">c</tspan><tspan x="159.73" y="0">4d01b1a48f1d</tspan></text>
+        <g class="cls-72">
+          <rect class="cls-67" x="179.62" y="206.8" width="1.5" height="78.01"/>
+        </g>
+        <text class="cls-48" transform="translate(75 218.05)"><tspan x="0" y="0">Upfront </tspan><tspan class="cls-90" x="30.34" y="0">c</tspan><tspan x="34.18" y="0">ost</tspan></text>
+        <text class="cls-51" transform="translate(75 249.6)"><tspan x="0" y="0">52,034.40 USD</tspan></text>
+        <g class="cls-139">
+          <rect class="cls-67" x="341.12" y="206.8" width="1.5" height="78.01"/>
+        </g>
+        <text class="cls-48" transform="translate(196.12 218.05)"><tspan x="0" y="0">Monthl</tspan><tspan class="cls-160" x="26.4" y="0">y</tspan><tspan x="30.53" y="0"> </tspan><tspan class="cls-174" x="32.38" y="0">c</tspan><tspan x="36.21" y="0">ost</tspan></text>
+        <text class="cls-51" transform="translate(196.12 249.6)"><tspan x="0" y="0">44,968.42 USD</tspan></text>
+        <text class="cls-48" transform="translate(357.62 218.05)"><tspan class="cls-155" x="0" y="0">T</tspan><tspan x="3.91" y="0">otal 12 mont</tspan><tspan class="cls-160" x="50.24" y="0">h</tspan><tspan x="55.1" y="0">s </tspan><tspan class="cls-91" x="60.39" y="0">c</tspan><tspan x="64.23" y="0">ost</tspan></text>
+        <text class="cls-51" transform="translate(357.62 249.6)"><tspan x="0" y="0">591,655.44 USD</tspan></text>
+        <text class="cls-50" transform="translate(357.62 280.06)"><tspan x="0" y="0">Includes upf</tspan><tspan class="cls-85" x="53.7" y="0">r</tspan><tspan x="57.02" y="0">ont </tspan><tspan class="cls-42" x="74.32" y="0">c</tspan><tspan x="78.88" y="0">ost</tspan></text>
+        <rect class="cls-67" x="66" y="349.89" width="480" height="1.5"/>
+        <rect class="cls-67" x="66" y="375.39" width="480" height="1.5"/>
+        <g class="cls-117">
+          <rect class="cls-67" x="66" y="490.89" width="480" height="1.5"/>
+        </g>
+        <g class="cls-161">
+          <rect class="cls-67" x="66" y="639.39" width="480" height="1.5"/>
+        </g>
+        <text class="cls-47" transform="translate(66 333.6)"><tspan x="0" y="0">Detai</tspan><tspan class="cls-65" x="27.2" y="0">l</tspan><tspan x="29.99" y="0">ed Estimate</tspan></text>
+        <text class="cls-51" transform="translate(73.5 366.89)"><tspan x="0" y="0">Name</tspan></text>
+        <g class="cls-13">
+          <rect class="cls-67" x="177" y="351.39" width="1.5" height="24"/>
+        </g>
+        <text class="cls-50" transform="translate(228.59 366.89)"><tspan x="0" y="0">G</tspan><tspan class="cls-22" x="6.78" y="0">r</tspan><tspan x="10.12" y="0">oup</tspan></text>
+        <g class="cls-96">
+          <rect class="cls-67" x="265.5" y="351.39" width="1.5" height="24"/>
+        </g>
+        <text class="cls-50" transform="translate(313.59 366.89)"><tspan class="cls-23" x="0" y="0">R</tspan><tspan x="5.56" y="0">egion</tspan></text>
+        <g class="cls-40">
+          <rect class="cls-67" x="354" y="351.39" width="1.5" height="24"/>
+        </g>
+        <text class="cls-50" transform="translate(375.28 366.89)"><tspan x="0" y="0">Upf</tspan><tspan class="cls-85" x="15.83" y="0">r</tspan><tspan x="19.16" y="0">ont </tspan><tspan class="cls-42" x="36.46" y="0">c</tspan><tspan class="cls-129" x="41.01" y="0">ost</tspan></text>
+        <g class="cls-146">
+          <rect class="cls-67" x="442.5" y="351.39" width="1.5" height="24"/>
+        </g>
+        <text class="cls-50" transform="translate(461.79 366.89)"><tspan x="0" y="0">Monthly </tspan><tspan class="cls-42" x="38.99" y="0">c</tspan><tspan x="43.54" y="0">ost</tspan></text>
+        <text class="cls-51" transform="translate(73.5 392.39)"><tspan x="0" y="0">Ama</tspan><tspan class="cls-34" x="20.24" y="0">z</tspan><tspan class="cls-129" x="24.65" y="0">on </tspan><tspan class="cls-32" x="38.47" y="0">E</tspan><tspan x="43.44" y="0">C2</tspan></text>
+        <text class="cls-50" transform="translate(211.92 392.39)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+        <text class="cls-50" transform="translate(221.12 408.89)"><tspan x="0" y="0">applied</tspan></text>
+        <text class="cls-50" transform="translate(284.67 392.39)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-25" x="51.23" y="0">)</tspan><tspan class="cls-129" x="69.54" y="0">52,034.40</tspan><tspan class="cls-142" x="111.59" y="0"> </tspan><tspan x="113.79" y="0">US</tspan><tspan class="cls-105" x="125.76" y="0">D</tspan><tspan class="cls-129" x="175.31" y="0">0.00 USD</tspan></text>
+        <text class="cls-51" transform="translate(73.5 432.89)"><tspan x="0" y="0">Status</tspan></text>
+        <text class="cls-50" transform="translate(104.62 432.89)"><tspan x="0" y="0">: </tspan></text>
+        <text class="cls-62" transform="translate(109.97 432.89)"><tspan x="0" y="0">-</tspan></text>
+        <text class="cls-51" transform="translate(73.5 449.39)"><tspan x="0" y="0">Description</tspan></text>
+        <text class="cls-50" transform="translate(129.97 449.39)"><tspan x="0" y="0">:</tspan></text>
+        <text class="cls-51" transform="translate(73.5 465.89)"><tspan x="0" y="0">Con</tspan></text>
+        <text class="cls-51" transform="translate(92.62 465.89)"><tspan x="0" y="0">ﬁ</tspan></text>
+        <text class="cls-51" transform="translate(99.52 465.89)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+        <text class="cls-50" transform="translate(154.8 465.89)"><tspan x="0" y="0">: </tspan></text>
+        <text class="cls-62" transform="translate(160.15 465.89)"><tspan class="cls-89" x="0" y="0">T</tspan><tspan x="4.65" y="0">enan</tspan><tspan class="cls-152" x="26.63" y="0">c</tspan><tspan x="31.44" y="0">y (Dedicated Hosts), </tspan><tspan class="cls-154" x="120.65" y="0">W</tspan><tspan x="129.25" y="0">orkload </tspan><tspan class="cls-85" x="164.83" y="0">(</tspan><tspan x="167.7" y="0">Consistent, Number of instan</tspan><tspan class="cls-5" x="294.8" y="0">c</tspan><tspan class="cls-129" x="299.35" y="0">es: 1),</tspan></text>
+        <text class="cls-62" transform="translate(73.5 482.39)"><tspan class="cls-115" x="0" y="0">A</tspan><tspan x="6.32" y="0">dvan</tspan><tspan class="cls-158" x="28.18" y="0">c</tspan><tspan x="32.75" y="0">e </tspan><tspan class="cls-137" x="40.24" y="0">E</tspan><tspan x="45.19" y="0">C2 instan</tspan><tspan class="cls-158" x="85.7" y="0">c</tspan><tspan x="90.27" y="0">e (r6g), Pr</tspan><tspan class="cls-163" x="131.83" y="0">i</tspan><tspan x="134.26" y="0">cing strategy </tspan><tspan class="cls-85" x="193.25" y="0">(</tspan><tspan x="196.13" y="0">Compute S</tspan><tspan class="cls-150" x="244.63" y="0">a</tspan><tspan class="cls-129" x="249.54" y="0">vings Plans 3yr All</tspan><tspan class="cls-126" x="327.84" y="0"> </tspan><tspan x="330.04" y="0">Upf</tspan><tspan class="cls-22" x="345.87" y="0">r</tspan><tspan x="349.21" y="0">ont)</tspan></text>
+        <text class="cls-51" transform="translate(73.5 507.89)"><tspan x="0" y="0">Ama</tspan><tspan class="cls-34" x="20.24" y="0">z</tspan><tspan class="cls-129" x="24.65" y="0">on R</tspan><tspan class="cls-115" x="44.12" y="0">D</tspan><tspan class="cls-129" x="51.01" y="0">S for</tspan></text>
+        <text class="cls-51" transform="translate(73.5 524.39)"><tspan class="cls-22" x="0" y="0">S</tspan><tspan x="5.08" y="0">QL se</tspan><tspan class="cls-169" x="28.92" y="0">r</tspan><tspan class="cls-175" x="32.76" y="0">v</tspan><tspan x="37.71" y="0">er</tspan></text>
+        <text class="cls-50" transform="translate(211.92 507.89)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+        <text class="cls-50" transform="translate(221.12 524.39)"><tspan x="0" y="0">applied</tspan></text>
+        <text class="cls-50" transform="translate(284.67 507.89)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-120" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-162" x="129.27" y="0">D</tspan><tspan class="cls-129" x="157.76" y="0">7,100.4</tspan><tspan class="cls-134" x="189.04" y="0">0</tspan><tspan x="194.39" y="0" xml:space="preserve"> USD</tspan></text>
+        <text class="cls-51" transform="translate(73.5 548.39)"><tspan x="0" y="0">Status</tspan></text>
+        <text class="cls-50" transform="translate(104.62 548.39)"><tspan x="0" y="0">: </tspan></text>
+        <text class="cls-62" transform="translate(109.97 548.39)"><tspan x="0" y="0">-</tspan></text>
+        <text class="cls-51" transform="translate(73.5 564.89)"><tspan x="0" y="0">Description</tspan></text>
+        <text class="cls-50" transform="translate(129.97 564.89)"><tspan x="0" y="0">:</tspan></text>
+        <text class="cls-51" transform="translate(73.5 581.39)"><tspan x="0" y="0">Con</tspan></text>
+        <text class="cls-51" transform="translate(92.62 581.39)"><tspan x="0" y="0">ﬁ</tspan></text>
+        <text class="cls-51" transform="translate(99.52 581.39)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+        <text class="cls-50" transform="translate(154.8 581.39)"><tspan x="0" y="0">: </tspan></text>
+        <text class="cls-62" transform="translate(160.15 581.39)"><tspan x="0" y="0">Storage amount (100 GB), Nodes (2)</tspan><tspan class="cls-126" x="155.97" y="0">,</tspan><tspan x="158.13" y="0" xml:space="preserve"> Instan</tspan><tspan class="cls-158" x="187.21" y="0">c</tspan><tspan class="cls-129" x="191.78" y="0">e </tspan><tspan class="cls-82" x="199.27" y="0">t</tspan><tspan x="202.89" y="0">ype </tspan><tspan class="cls-85" x="221.29" y="0">(</tspan><tspan x="224.17" y="0">db.m4.xla</tspan><tspan class="cls-115" x="266.96" y="0">r</tspan><tspan x="270.29" y="0">ge), Utilization</tspan></text>
+        <text class="cls-62" transform="translate(73.5 597.89)"><tspan class="cls-85" x="0" y="0">(</tspan><tspan x="2.88" y="0">On-Demand onl</tspan><tspan class="cls-59" x="73.28" y="0">y</tspan><tspan x="78.35" y="0">) (100 %Utili</tspan><tspan class="cls-92" x="130.9" y="0">z</tspan><tspan x="135.28" y="0">ed/Month), Depl</tspan><tspan class="cls-115" x="207.49" y="0">o</tspan><tspan x="213.15" y="0">yment option (Multi</tspan><tspan class="cls-92" x="300.75" y="0">-</tspan><tspan class="cls-53" x="303.85" y="0">AZ), Li</tspan><tspan class="cls-5" x="330.88" y="0">c</tspan><tspan x="335.43" y="0">ense (Li</tspan><tspan class="cls-104" x="368.55" y="0">c</tspan><tspan x="373.1" y="0">ense</tspan></text>
+        <text class="cls-62" transform="translate(73.5 614.39)"><tspan x="0" y="0">included), Database edition (Enterprise)</tspan><tspan class="cls-163" x="172.81" y="0">,</tspan><tspan class="cls-53" x="174.96" y="0" xml:space="preserve"> Pricing strategy </tspan><tspan class="cls-85" x="247.65" y="0">(</tspan><tspan x="250.53" y="0">OnDemand), Storage for each R</tspan><tspan class="cls-115" x="388.27" y="0">D</tspan><tspan class="cls-129" x="395.16" y="0">S</tspan></text>
+        <text class="cls-62" transform="translate(73.5 630.89)"><tspan x="0" y="0">instan</tspan><tspan class="cls-69" x="26.81" y="0">c</tspan><tspan class="cls-129" x="31.37" y="0">e </tspan><tspan class="cls-85" x="38.86" y="0">(</tspan><tspan class="cls-129" x="41.74" y="0">General Purp</tspan><tspan class="cls-163" x="98.85" y="0">o</tspan><tspan x="104.59" y="0">se </tspan><tspan class="cls-22" x="116.23" y="0">S</tspan><tspan class="cls-129" x="121.32" y="0">SD </tspan><tspan class="cls-22" x="135.71" y="0">(</tspan><tspan x="138.6" y="0">gp2)), </tspan><tspan class="cls-159" x="166.19" y="0">A</tspan><tspan x="172.5" y="0">dditional backup storage (100 GB)</tspan></text>
+        <text class="cls-51" transform="translate(73.5 656.39)"><tspan x="0" y="0">Elastic Load</tspan></text>
+        <text class="cls-51" transform="translate(73.5 672.89)"><tspan x="0" y="0">Balancing</tspan></text>
+        <text class="cls-50" transform="translate(211.92 656.39)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+        <text class="cls-50" transform="translate(221.12 672.89)"><tspan x="0" y="0">applied</tspan></text>
+        <text class="cls-50" transform="translate(284.67 656.39)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-120" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-162" x="129.27" y="0">D</tspan><tspan class="cls-129" x="157.76" y="0">3,042.5</tspan><tspan class="cls-134" x="189.04" y="0">6</tspan><tspan x="194.39" y="0" xml:space="preserve"> USD</tspan></text>
+        <text class="cls-51" transform="translate(73.5 696.89)"><tspan x="0" y="0">Status</tspan></text>
+        <text class="cls-50" transform="translate(104.62 696.89)"><tspan x="0" y="0">: </tspan></text>
+        <text class="cls-62" transform="translate(109.97 696.89)"><tspan x="0" y="0">-</tspan></text>
+        <text class="cls-51" transform="translate(73.5 713.39)"><tspan x="0" y="0">Description</tspan></text>
+        <text class="cls-50" transform="translate(129.97 713.39)"><tspan x="0" y="0">:</tspan></text>
+        <text class="cls-51" transform="translate(73.5 729.89)"><tspan x="0" y="0">Con</tspan></text>
+        <text class="cls-51" transform="translate(92.62 729.89)"><tspan x="0" y="0">ﬁ</tspan></text>
+        <text class="cls-51" transform="translate(99.52 729.89)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+        <text class="cls-50" transform="translate(154.8 729.89)"><tspan x="0" y="0">: </tspan></text>
+        <text class="cls-62" transform="translate(160.15 729.89)"><tspan x="0" y="0">Number of Ap</tspan><tspan class="cls-142" x="61.8" y="0">p</tspan><tspan x="67.75" y="0">lication Load Balan</tspan><tspan class="cls-133" x="150.24" y="0">c</tspan><tspan x="154.8" y="0">ers (2) Numbe</tspan><tspan class="cls-126" x="216.14" y="0">r</tspan><tspan x="219.55" y="0" xml:space="preserve"> of Ne</tspan><tspan class="cls-82" x="245" y="0">t</tspan><tspan class="cls-70" x="248.62" y="0">w</tspan><tspan x="256.26" y="0">ork Load Balan</tspan><tspan class="cls-104" x="320.65" y="0">c</tspan><tspan x="325.2" y="0">ers</tspan></text>
+        <text class="cls-62" transform="translate(73.5 746.39)"><tspan x="0" y="0">(3), P</tspan><tspan class="cls-85" x="21.34" y="0">r</tspan><tspan x="24.66" y="0">o</tspan><tspan class="cls-104" x="30.43" y="0">c</tspan><tspan x="34.97" y="0">essed </tspan><tspan class="cls-115" x="61.96" y="0">b</tspan><tspan class="cls-121" x="67.83" y="0">y</tspan><tspan x="73.05" y="0">tes per NLB for </tspan><tspan class="cls-83" x="139.33" y="0">T</tspan><tspan x="144.23" y="0">CP (10 GB pe</tspan><tspan class="cls-163" x="200.04" y="0">r</tspan><tspan class="cls-53" x="203.45" y="0" xml:space="preserve"> hour), </tspan><tspan class="cls-111" x="233.87" y="0">A</tspan><tspan class="cls-85" x="240.04" y="0">v</tspan><tspan class="cls-129" x="244.98" y="0">erage numbe</tspan><tspan class="cls-163" x="303.7" y="0">r</tspan><tspan class="cls-53" x="307.11" y="0" xml:space="preserve"> of new </tspan><tspan class="cls-18" x="341.43" y="0">T</tspan><tspan x="346.34" y="0">CP </tspan><tspan class="cls-158" x="360.24" y="0">c</tspan><tspan x="364.8" y="0">onne</tspan><tspan class="cls-101" x="387.48" y="0">c</tspan><tspan x="392.28" y="0">tions</tspan></text>
+        <g class="cls-55">
+          <text class="cls-62" transform="translate(73.5 762.89)"><tspan x="0" y="0">(10 per se</tspan><tspan class="cls-141" x="42.29" y="0">c</tspan><tspan x="46.82" y="0">ond), </tspan><tspan class="cls-144" x="71.71" y="0">A</tspan><tspan class="cls-85" x="77.89" y="0">v</tspan><tspan class="cls-129" x="82.83" y="0">erage </tspan><tspan class="cls-127" x="109.94" y="0">T</tspan><tspan x="114.84" y="0">CP </tspan><tspan class="cls-133" x="128.74" y="0">c</tspan><tspan x="133.29" y="0">onne</tspan><tspan class="cls-152" x="155.97" y="0">c</tspan><tspan x="160.78" y="0">tion duration (480 minutes), P</tspan><tspan class="cls-159" x="290.54" y="0">r</tspan><tspan x="293.86" y="0">o</tspan><tspan class="cls-104" x="299.62" y="0">c</tspan><tspan x="304.17" y="0">essed </tspan><tspan class="cls-22" x="331.15" y="0">b</tspan><tspan class="cls-61" x="337.03" y="0">y</tspan><tspan x="342.25" y="0">tes per NLB for</tspan></text>
+        </g>
+        <text class="cls-77" transform="translate(0 9)"><tspan x="0" y="0">My Estimate - </tspan><tspan class="cls-38" x="59.71" y="0">A</tspan><tspan x="66.12" y="0">WS Pricing Calculator</tspan></text>
+        <text class="cls-77" transform="translate(483.49 9)"><tspan x="0" y="0">https://ca</tspan><tspan class="cls-126" x="36.66" y="0">l</tspan><tspan x="39.42" y="0">culato</tspan><tspan class="cls-86" x="63.85" y="0">r</tspan><tspan x="66.63" y="0">.aws/#/estima</tspan><tspan class="cls-126" x="121.34" y="0">t</tspan><tspan x="124.1" y="0">e</tspan></text>
+        <text class="cls-77" transform="translate(0 790)"><tspan x="0" y="0">1 of 4</tspan></text>
+        <text class="cls-77" transform="translate(538.67 790)"><tspan x="0" y="0">03/06/2024, 21:02</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="cls-41">
+    <g class="cls-14">
+      <g class="cls-148">
+        <rect class="cls-68" x="668" y="-706.95" width="540" height="2295.79"/>
+        <rect class="cls-68" x="668" y="-706.95" width="540" height="2295.79"/>
+      </g>
+      <g class="cls-145">
+        <rect class="cls-67" x="698" y="151.59" width="480" height="1.5"/>
+      </g>
+      <g class="cls-128">
+        <text class="cls-62" transform="translate(705.5 27.59)"><tspan x="0" y="0">(10 per se</tspan><tspan class="cls-141" x="42.29" y="0">c</tspan><tspan x="46.82" y="0">ond), </tspan><tspan class="cls-144" x="71.71" y="0">A</tspan><tspan class="cls-85" x="77.89" y="0">v</tspan><tspan class="cls-129" x="82.83" y="0">erage </tspan><tspan class="cls-127" x="109.94" y="0">T</tspan><tspan x="114.84" y="0">CP </tspan><tspan class="cls-133" x="128.74" y="0">c</tspan><tspan x="133.29" y="0">onne</tspan><tspan class="cls-152" x="155.97" y="0">c</tspan><tspan x="160.78" y="0">tion duration (480 minutes), P</tspan><tspan class="cls-159" x="290.54" y="0">r</tspan><tspan x="293.86" y="0">o</tspan><tspan class="cls-104" x="299.62" y="0">c</tspan><tspan x="304.17" y="0">essed </tspan><tspan class="cls-22" x="331.15" y="0">b</tspan><tspan class="cls-61" x="337.03" y="0">y</tspan><tspan x="342.25" y="0">tes per NLB for</tspan></text>
+      </g>
+      <text class="cls-62" transform="translate(705.5 44.09)"><tspan x="0" y="0">UDP (10 GB per hou</tspan><tspan class="cls-163" x="86.55" y="0">r</tspan><tspan x="89.96" y="0">), </tspan><tspan class="cls-144" x="97.34" y="0">A</tspan><tspan class="cls-85" x="103.52" y="0">v</tspan><tspan x="108.46" y="0">erage numbe</tspan><tspan class="cls-126" x="167.18" y="0">r</tspan><tspan x="170.59" y="0" xml:space="preserve"> of new UDP Fl</tspan><tspan class="cls-85" x="234.1" y="0">o</tspan><tspan class="cls-53" x="239.76" y="0">ws (10 per se</tspan><tspan class="cls-93" x="296.17" y="0">c</tspan><tspan x="300.7" y="0">ond), </tspan><tspan class="cls-111" x="325.6" y="0">A</tspan><tspan class="cls-175" x="331.76" y="0">v</tspan><tspan x="336.72" y="0">erage UDP Fl</tspan><tspan class="cls-92" x="393.02" y="0">o</tspan><tspan class="cls-53" x="398.67" y="0">w</tspan></text>
+      <text class="cls-62" transform="translate(705.5 60.59)"><tspan x="0" y="0">duration (480 minutes), P</tspan><tspan class="cls-85" x="110.01" y="0">r</tspan><tspan x="113.33" y="0">o</tspan><tspan class="cls-104" x="119.1" y="0">c</tspan><tspan x="123.65" y="0">essed </tspan><tspan class="cls-22" x="150.63" y="0">b</tspan><tspan class="cls-125" x="156.51" y="0">y</tspan><tspan x="161.72" y="0">tes per NLB for TLS (</tspan><tspan class="cls-142" x="248.56" y="0">1</tspan><tspan class="cls-129" x="253.92" y="0">0 GB per hour)</tspan><tspan class="cls-126" x="316.92" y="0">,</tspan><tspan x="319.07" y="0"> </tspan><tspan class="cls-144" x="321.29" y="0">A</tspan><tspan class="cls-85" x="327.47" y="0">v</tspan><tspan x="332.41" y="0">erage number</tspan><tspan class="cls-126" x="394.56" y="0"> </tspan><tspan x="396.77" y="0">of</tspan></text>
+      <text class="cls-62" transform="translate(705.5 77.09)"><tspan x="0" y="0">new TLS </tspan><tspan class="cls-5" x="38.62" y="0">c</tspan><tspan class="cls-129" x="43.17" y="0">onne</tspan><tspan class="cls-114" x="65.84" y="0">c</tspan><tspan x="70.64" y="0">tions (10 per s</tspan><tspan class="cls-163" x="131.58" y="0">e</tspan><tspan class="cls-133" x="136.82" y="0">c</tspan><tspan x="141.38" y="0">ond), </tspan><tspan class="cls-97" x="166.28" y="0">A</tspan><tspan class="cls-85" x="172.43" y="0">v</tspan><tspan x="177.37" y="0">erage TLS </tspan><tspan class="cls-5" x="222.06" y="0">c</tspan><tspan class="cls-129" x="226.61" y="0">onne</tspan><tspan class="cls-152" x="249.29" y="0">c</tspan><tspan x="254.1" y="0">tion duration (480 minutes) Number of</tspan></text>
+      <text class="cls-62" transform="translate(705.5 93.59)"><tspan class="cls-144" x="0" y="0">A</tspan><tspan x="6.17" y="0">vailabili</tspan><tspan class="cls-59" x="39.65" y="0">t</tspan><tspan x="43.25" y="0">y </tspan><tspan class="cls-22" x="50.42" y="0">Z</tspan><tspan x="56.13" y="0">ones that Gatew</tspan><tspan class="cls-5" x="127.74" y="0">a</tspan><tspan x="132.64" y="0">y Load Balan</tspan><tspan class="cls-69" x="187.86" y="0">c</tspan><tspan class="cls-129" x="192.43" y="0">er is depl</tspan><tspan class="cls-85" x="231.83" y="0">oy</tspan><tspan x="242.33" y="0">ed to (2), Number of </tspan><tspan class="cls-163" x="332.35" y="0">G</tspan><tspan class="cls-53" x="339.11" y="0">atew</tspan><tspan class="cls-150" x="360.64" y="0">a</tspan><tspan x="365.54" y="0">y Load</tspan></text>
+      <text class="cls-62" transform="translate(705.5 110.09)"><tspan x="0" y="0">Balan</tspan><tspan class="cls-158" x="24.12" y="0">c</tspan><tspan x="28.69" y="0">er Endpoints (3), </tspan><tspan class="cls-124" x="102.15" y="0">T</tspan><tspan x="106.78" y="0">otal p</tspan><tspan class="cls-22" x="131.76" y="0">r</tspan><tspan x="135.1" y="0">o</tspan><tspan class="cls-5" x="140.87" y="0">c</tspan><tspan class="cls-129" x="145.41" y="0">essed </tspan><tspan class="cls-85" x="172.4" y="0">b</tspan><tspan class="cls-112" x="178.27" y="0">y</tspan><tspan x="183.47" y="0">tes (10 GB per hou</tspan><tspan class="cls-126" x="263.54" y="0">r</tspan><tspan class="cls-129" x="266.96" y="0">), </tspan><tspan class="cls-144" x="274.34" y="0">A</tspan><tspan class="cls-85" x="280.51" y="0">v</tspan><tspan x="285.46" y="0">erage numbe</tspan><tspan class="cls-126" x="344.17" y="0">r</tspan><tspan x="347.59" y="0" xml:space="preserve"> of new</tspan></text>
+      <text class="cls-62" transform="translate(705.5 126.59)"><tspan class="cls-5" x="0" y="0">c</tspan><tspan class="cls-129" x="4.55" y="0">onne</tspan><tspan class="cls-152" x="27.23" y="0">c</tspan><tspan x="32.04" y="0">tions/</tspan></text>
+      <text class="cls-62" transform="translate(767.58 126.59)"><tspan x="0" y="0">ﬂ</tspan></text>
+      <text class="cls-62" transform="translate(774.41 126.59)"><tspan class="cls-22" x="0" y="0">o</tspan><tspan x="5.67" y="0">ws (10 per se</tspan><tspan class="cls-5" x="62.07" y="0">c</tspan><tspan x="66.62" y="0">ond), </tspan><tspan class="cls-138" x="91.52" y="0">A</tspan><tspan class="cls-85" x="97.68" y="0">v</tspan><tspan x="102.62" y="0">erage </tspan><tspan class="cls-5" x="129.74" y="0">c</tspan><tspan x="134.28" y="0">onne</tspan><tspan class="cls-152" x="156.96" y="0">c</tspan><tspan x="161.77" y="0">tion/</tspan></text>
+      <text class="cls-62" transform="translate(973.03 126.59)"><tspan x="0" y="0">ﬂ</tspan></text>
+      <text class="cls-62" transform="translate(979.87 126.59)"><tspan class="cls-22" x="0" y="0">o</tspan><tspan x="5.67" y="0">w duration (480 minutes) Number </tspan><tspan class="cls-163" x="156.22" y="0">o</tspan><tspan class="cls-129" x="161.96" y="0">f</tspan></text>
+      <text class="cls-62" transform="translate(705.5 143.09)"><tspan x="0" y="0">Classic Load Balan</tspan><tspan class="cls-133" x="79.38" y="0">c</tspan><tspan x="83.94" y="0">ers (1), P</tspan><tspan class="cls-159" x="120.35" y="0">r</tspan><tspan x="123.67" y="0">o</tspan><tspan class="cls-133" x="129.43" y="0">c</tspan><tspan x="133.99" y="0">essed </tspan><tspan class="cls-85" x="160.97" y="0">b</tspan><tspan class="cls-61" x="166.84" y="0">y</tspan><tspan x="172.06" y="0">tes per CLB (20 GB </tspan><tspan class="cls-142" x="253.72" y="0">p</tspan><tspan class="cls-129" x="259.66" y="0">er hour)</tspan></text>
+      <text class="cls-51" transform="translate(705.5 168.59)"><tspan x="0" y="0">Ama</tspan><tspan class="cls-34" x="20.24" y="0">z</tspan><tspan class="cls-129" x="24.65" y="0">on Simp</tspan><tspan class="cls-115" x="60.84" y="0">l</tspan><tspan x="63.21" y="0">e</tspan></text>
+      <text class="cls-51" transform="translate(705.5 185.09)"><tspan x="0" y="0">Storage Se</tspan><tspan class="cls-173" x="46.7" y="0">r</tspan><tspan x="50.55" y="0">vi</tspan><tspan class="cls-34" x="58.05" y="0">c</tspan><tspan class="cls-129" x="62.67" y="0">e</tspan></text>
+      <text class="cls-51" transform="translate(705.5 201.59)"><tspan x="0" y="0">(S3)</tspan></text>
+      <text class="cls-50" transform="translate(843.92 168.59)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+      <text class="cls-50" transform="translate(853.12 185.09)"><tspan x="0" y="0">applied</tspan></text>
+      <text class="cls-50" transform="translate(916.67 168.59)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-120" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-16" x="129.27" y="0">D</tspan><tspan x="151.61" y="0">12,983.0</tspan><tspan class="cls-134" x="188.27" y="0">0</tspan><tspan x="193.63" y="0" xml:space="preserve"> USD</tspan></text>
+      <text class="cls-51" transform="translate(705.5 225.59)"><tspan x="0" y="0">Status</tspan></text>
+      <text class="cls-50" transform="translate(736.62 225.59)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(741.97 225.59)"><tspan x="0" y="0">-</tspan></text>
+      <text class="cls-51" transform="translate(705.5 242.09)"><tspan x="0" y="0">Description</tspan></text>
+      <text class="cls-50" transform="translate(761.97 242.09)"><tspan x="0" y="0">:</tspan></text>
+      <text class="cls-51" transform="translate(705.5 258.59)"><tspan x="0" y="0">Con</tspan></text>
+      <text class="cls-51" transform="translate(724.62 258.59)"><tspan x="0" y="0">ﬁ</tspan></text>
+      <text class="cls-51" transform="translate(731.52 258.59)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+      <text class="cls-50" transform="translate(786.8 258.59)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(792.15 258.59)"><tspan x="0" y="0">S3 Standa</tspan><tspan class="cls-43" x="43.31" y="0">r</tspan><tspan x="46.67" y="0">d storage (4000 GB p</tspan><tspan class="cls-163" x="137.5" y="0">e</tspan><tspan x="142.73" y="0">r month), PU</tspan><tspan class="cls-2" x="197.81" y="0">T</tspan><tspan class="cls-53" x="202.29" y="0">, </tspan><tspan class="cls-138" x="206.69" y="0">C</tspan><tspan x="212.52" y="0">O</tspan><tspan class="cls-5" x="219.75" y="0">P</tspan><tspan class="cls-156" x="225.18" y="0">Y</tspan><tspan x="230.08" y="0">, P</tspan><tspan class="cls-115" x="240.07" y="0">O</tspan><tspan class="cls-129" x="247.2" y="0">S</tspan><tspan class="cls-1" x="252.37" y="0">T</tspan><tspan x="256.87" y="0">, LIST </tspan><tspan class="cls-22" x="281.35" y="0">r</tspan><tspan x="284.69" y="0">equests to</tspan></text>
+      <text class="cls-62" transform="translate(705.5 275.09)"><tspan x="0" y="0">S3 Standa</tspan><tspan class="cls-43" x="43.31" y="0">r</tspan><tspan x="46.67" y="0">d (100000000</tspan><tspan class="cls-163" x="106.28" y="0">0</tspan><tspan x="111.64" y="0">), GE</tspan><tspan class="cls-2" x="130.97" y="0">T</tspan><tspan class="cls-53" x="135.46" y="0">, SEL</tspan><tspan class="cls-27" x="155.16" y="0">E</tspan><tspan x="160.1" y="0">C</tspan><tspan class="cls-44" x="166.19" y="0">T</tspan><tspan class="cls-53" x="170.68" y="0">, and all other </tspan><tspan class="cls-85" x="232.35" y="0">r</tspan><tspan x="235.68" y="0">equests f</tspan><tspan class="cls-22" x="274.98" y="0">r</tspan><tspan x="278.32" y="0">om S3 Standa</tspan><tspan class="cls-23" x="338.38" y="0">r</tspan><tspan x="341.73" y="0">d (1000000000),</tspan></text>
+      <text class="cls-62" transform="translate(705.5 291.59)"><tspan x="0" y="0">Data </tspan><tspan class="cls-153" x="22.82" y="0">r</tspan><tspan x="26.18" y="0">eturned </tspan><tspan class="cls-159" x="63.37" y="0">b</tspan><tspan x="69.23" y="0">y S3 Sele</tspan><tspan class="cls-152" x="107.36" y="0">c</tspan><tspan x="112.17" y="0">t (4000 GB pe</tspan><tspan class="cls-163" x="170.56" y="0">r</tspan><tspan class="cls-53" x="173.97" y="0" xml:space="preserve"> month), Data scanned </tspan><tspan class="cls-153" x="275.03" y="0">b</tspan><tspan x="280.93" y="0">y S3 Sele</tspan><tspan class="cls-101" x="319.07" y="0">c</tspan><tspan x="323.87" y="0">t (4000 GB per m</tspan><tspan class="cls-163" x="396.67" y="0">o</tspan><tspan x="402.42" y="0">nth)</tspan></text>
+      <text class="cls-62" transform="translate(705.5 308.09)"><tspan x="0" y="0">S3 INT </tspan><tspan class="cls-144" x="29.65" y="0">A</tspan><tspan class="cls-85" x="35.83" y="0">v</tspan><tspan x="40.77" y="0">erage Obje</tspan><tspan class="cls-54" x="88.9" y="0">c</tspan><tspan x="93.69" y="0">t Si</tspan><tspan class="cls-85" x="107.02" y="0">z</tspan><tspan x="111.41" y="0">e (100000 MB), </tspan><tspan class="cls-159" x="177.94" y="0">P</tspan><tspan x="183.41" y="0">e</tspan><tspan class="cls-22" x="188.67" y="0">r</tspan><tspan class="cls-133" x="192.01" y="0">c</tspan><tspan x="196.57" y="0">entage of Storage in IN</tspan><tspan class="cls-123" x="296.8" y="0">T</tspan><tspan x="301.6" y="0">-</tspan><tspan class="cls-69" x="304.82" y="0">F</tspan><tspan class="cls-22" x="309.8" y="0">r</tspan><tspan class="cls-129" x="313.14" y="0">equent </tspan><tspan class="cls-22" x="346.88" y="0">A</tspan><tspan class="cls-42" x="353.21" y="0">cc</tspan><tspan x="362.33" y="0">ess Tier (1),</tspan></text>
+      <text class="cls-62" transform="translate(705.5 324.59)"><tspan x="0" y="0">S3 INT storage (4000 GB p</tspan><tspan class="cls-126" x="112.33" y="0">e</tspan><tspan class="cls-129" x="117.57" y="0">r month), </tspan><tspan class="cls-70" x="160.26" y="0">P</tspan><tspan class="cls-129" x="165.75" y="0">e</tspan><tspan class="cls-22" x="171.01" y="0">r</tspan><tspan class="cls-42" x="174.35" y="0">c</tspan><tspan class="cls-129" x="178.91" y="0">entage of Storage in IN</tspan><tspan class="cls-17" x="279.14" y="0">T</tspan><tspan x="283.95" y="0">-Inf</tspan><tspan class="cls-34" x="298.57" y="0">r</tspan><tspan x="301.92" y="0">equent </tspan><tspan class="cls-70" x="335.67" y="0">A</tspan><tspan class="cls-104" x="342" y="0">c</tspan><tspan class="cls-42" x="346.55" y="0">c</tspan><tspan class="cls-129" x="351.1" y="0">ess Tier (% of</tspan></text>
+      <text class="cls-62" transform="translate(705.5 341.09)"><tspan x="0" y="0">storage that hasn&apos;t been a</tspan><tspan class="cls-133" x="113.47" y="0">c</tspan><tspan class="cls-5" x="118.03" y="0">c</tspan><tspan class="cls-129" x="122.58" y="0">essed in the last 30 d</tspan><tspan class="cls-42" x="213.18" y="0">a</tspan><tspan x="218.09" y="0">ys) (0), PU</tspan><tspan class="cls-2" x="260.53" y="0">T</tspan><tspan class="cls-53" x="265.01" y="0">, </tspan><tspan class="cls-166" x="269.41" y="0">C</tspan><tspan x="275.23" y="0">O</tspan><tspan class="cls-133" x="282.47" y="0">P</tspan><tspan class="cls-156" x="287.9" y="0">Y</tspan><tspan x="292.81" y="0">, P</tspan><tspan class="cls-159" x="302.79" y="0">O</tspan><tspan x="309.91" y="0">S</tspan><tspan class="cls-44" x="315.09" y="0">T</tspan><tspan x="319.58" y="0">, LIST </tspan><tspan class="cls-22" x="344.07" y="0">r</tspan><tspan x="347.41" y="0">equests to S3</tspan></text>
+      <text class="cls-62" transform="translate(705.5 357.59)"><tspan x="0" y="0">INT (10000000), </tspan><tspan class="cls-163" x="70.32" y="0">G</tspan><tspan x="77.08" y="0">E</tspan><tspan class="cls-1" x="82.24" y="0">T</tspan><tspan class="cls-53" x="86.74" y="0">, SEL</tspan><tspan class="cls-27" x="106.44" y="0">E</tspan><tspan x="111.38" y="0">C</tspan><tspan class="cls-1" x="117.47" y="0">T</tspan><tspan class="cls-53" x="121.96" y="0">, and all other </tspan><tspan class="cls-115" x="183.63" y="0">r</tspan><tspan class="cls-129" x="186.96" y="0">equests f</tspan><tspan class="cls-22" x="226.26" y="0">r</tspan><tspan class="cls-129" x="229.6" y="0">om S3 INT (10000000</tspan><tspan class="cls-163" x="322.07" y="0">)</tspan><tspan class="cls-53" x="325.03" y="0">, Life</tspan><tspan class="cls-101" x="345.17" y="0">c</tspan><tspan class="cls-22" x="349.97" y="0">y</tspan><tspan x="354.82" y="0">cle </tspan><tspan class="cls-45" x="369.49" y="0">T</tspan><tspan class="cls-129" x="374.13" y="0">ransition</tspan></text>
+      <text class="cls-62" transform="translate(705.5 374.09)"><tspan class="cls-22" x="0" y="0">r</tspan><tspan x="3.34" y="0">equests (10000000)</tspan><tspan class="cls-126" x="88.63" y="0">,</tspan><tspan x="90.78" y="0" xml:space="preserve"> Data </tspan><tspan class="cls-43" x="115.82" y="0">r</tspan><tspan x="119.18" y="0">eturned </tspan><tspan class="cls-85" x="156.37" y="0">b</tspan><tspan x="162.24" y="0">y S3 Sele</tspan><tspan class="cls-114" x="200.38" y="0">c</tspan><tspan x="205.18" y="0">t (4000 GB per </tspan><tspan class="cls-126" x="269.22" y="0">m</tspan><tspan class="cls-129" x="277.96" y="0">onth), Data scanned </tspan><tspan class="cls-43" x="368.04" y="0">b</tspan><tspan x="373.94" y="0">y S3</tspan></text>
+      <text class="cls-62" transform="translate(705.5 390.59)"><tspan x="0" y="0">Sele</tspan><tspan class="cls-75" x="18.17" y="0">c</tspan><tspan x="22.96" y="0">t (4000 GB per m</tspan><tspan class="cls-163" x="95.77" y="0">o</tspan><tspan class="cls-53" x="101.51" y="0">nth) S3 Standa</tspan><tspan class="cls-153" x="165.16" y="0">r</tspan><tspan class="cls-53" x="168.52" y="0">d-IA storage (4000 GB per month), PU</tspan><tspan class="cls-103" x="331.84" y="0">T</tspan><tspan class="cls-53" x="336.3" y="0">, </tspan><tspan class="cls-111" x="340.7" y="0">C</tspan><tspan x="346.53" y="0">O</tspan><tspan class="cls-133" x="353.76" y="0">P</tspan><tspan class="cls-71" x="359.2" y="0">Y</tspan><tspan x="364.09" y="0">, P</tspan><tspan class="cls-22" x="374.08" y="0">O</tspan><tspan x="381.22" y="0">S</tspan><tspan class="cls-2" x="386.39" y="0">T</tspan><tspan x="390.88" y="0">, LIST</tspan></text>
+      <text class="cls-62" transform="translate(705.5 407.09)"><tspan class="cls-22" x="0" y="0">r</tspan><tspan x="3.34" y="0">equests to S3 Standa</tspan><tspan class="cls-153" x="94.35" y="0">r</tspan><tspan class="cls-53" x="97.71" y="0">d-IA (10000000), GE</tspan><tspan class="cls-103" x="183.42" y="0">T</tspan><tspan class="cls-53" x="187.88" y="0">, SEL</tspan><tspan class="cls-95" x="207.58" y="0">E</tspan><tspan x="212.54" y="0">C</tspan><tspan class="cls-1" x="218.63" y="0">T</tspan><tspan class="cls-53" x="223.12" y="0">, and all other </tspan><tspan class="cls-115" x="284.79" y="0">r</tspan><tspan class="cls-129" x="288.11" y="0">equests f</tspan><tspan class="cls-22" x="327.42" y="0">r</tspan><tspan x="330.75" y="0">om S3 Standa</tspan><tspan class="cls-34" x="390.81" y="0">r</tspan><tspan x="394.16" y="0">d-IA</tspan></text>
+      <text class="cls-62" transform="translate(705.5 423.59)"><tspan x="0" y="0">(10000000)</tspan><tspan class="cls-163" x="49.05" y="0">,</tspan><tspan x="51.21" y="0" xml:space="preserve"> Life</tspan><tspan class="cls-75" x="69.17" y="0">c</tspan><tspan class="cls-22" x="73.96" y="0">y</tspan><tspan x="78.81" y="0">cle </tspan><tspan class="cls-110" x="93.48" y="0">T</tspan><tspan x="98.12" y="0">ransition </tspan><tspan class="cls-22" x="138.81" y="0">r</tspan><tspan x="142.15" y="0">equests (10000000</tspan><tspan class="cls-163" x="224.45" y="0">)</tspan><tspan x="227.41" y="0">, Data </tspan><tspan class="cls-153" x="254.63" y="0">r</tspan><tspan x="257.99" y="0">etrievals (</tspan><tspan class="cls-163" x="299.83" y="0">4</tspan><tspan x="305.2" y="0">000 GB per month), Data</tspan></text>
+      <text class="cls-62" transform="translate(705.5 440.09)"><tspan class="cls-22" x="0" y="0">r</tspan><tspan x="3.34" y="0">eturned </tspan><tspan class="cls-85" x="40.53" y="0">b</tspan><tspan x="46.4" y="0">y S3 Sele</tspan><tspan class="cls-75" x="84.53" y="0">c</tspan><tspan class="cls-129" x="89.32" y="0">t (4000 GB per m</tspan><tspan class="cls-126" x="162.13" y="0">o</tspan><tspan x="167.87" y="0">nth), Data scanned </tspan><tspan class="cls-153" x="252.18" y="0">b</tspan><tspan x="258.08" y="0">y S3 Sele</tspan><tspan class="cls-114" x="296.22" y="0">c</tspan><tspan x="301.02" y="0">t (4000 GB pe</tspan><tspan class="cls-163" x="359.41" y="0">r</tspan><tspan x="362.82" y="0" xml:space="preserve"> month) S3</tspan></text>
+      <text class="cls-62" transform="translate(705.5 456.59)"><tspan x="0" y="0">One </tspan><tspan class="cls-22" x="20.55" y="0">Z</tspan><tspan x="26.26" y="0">one-IA storage (4000 GB p</tspan><tspan class="cls-163" x="140.17" y="0">e</tspan><tspan x="145.41" y="0">r month), PU</tspan><tspan class="cls-2" x="200.48" y="0">T</tspan><tspan class="cls-53" x="204.97" y="0">, </tspan><tspan class="cls-138" x="209.37" y="0">C</tspan><tspan x="215.19" y="0">O</tspan><tspan class="cls-42" x="222.43" y="0">P</tspan><tspan class="cls-156" x="227.87" y="0">Y</tspan><tspan class="cls-129" x="232.77" y="0">, P</tspan><tspan class="cls-92" x="242.76" y="0">O</tspan><tspan x="249.87" y="0">S</tspan><tspan class="cls-1" x="255.05" y="0">T</tspan><tspan class="cls-129" x="259.54" y="0">, LIST </tspan><tspan class="cls-22" x="284.03" y="0">r</tspan><tspan x="287.37" y="0">equests to S3 One </tspan><tspan class="cls-22" x="368.41" y="0">Z</tspan><tspan x="374.12" y="0">one-IA</tspan></text>
+      <text class="cls-62" transform="translate(705.5 473.09)"><tspan x="0" y="0">(10000000</tspan><tspan class="cls-142" x="46.07" y="0">0</tspan><tspan class="cls-129" x="51.43" y="0">), GE</tspan><tspan class="cls-2" x="70.76" y="0">T</tspan><tspan x="75.24" y="0">, SEL</tspan><tspan class="cls-27" x="94.94" y="0">E</tspan><tspan x="99.88" y="0">C</tspan><tspan class="cls-1" x="105.97" y="0">T</tspan><tspan x="110.47" y="0">, and all other </tspan><tspan class="cls-85" x="172.13" y="0">r</tspan><tspan x="175.46" y="0">equests f</tspan><tspan class="cls-22" x="214.76" y="0">r</tspan><tspan x="218.1" y="0">om S3 One </tspan><tspan class="cls-85" x="268.19" y="0">Z</tspan><tspan x="273.89" y="0">one-IA (100000</tspan><tspan class="cls-163" x="340.42" y="0">0</tspan><tspan x="345.79" y="0">00), Life</tspan><tspan class="cls-75" x="379.68" y="0">c</tspan><tspan class="cls-115" x="384.47" y="0">y</tspan><tspan x="389.31" y="0">cle</tspan></text>
+      <text class="cls-62" transform="translate(705.5 489.59)"><tspan class="cls-89" x="0" y="0">T</tspan><tspan x="4.65" y="0">ransition </tspan><tspan class="cls-22" x="45.34" y="0">r</tspan><tspan x="48.68" y="0">equests (10000000</tspan><tspan class="cls-163" x="130.98" y="0">0</tspan><tspan x="136.35" y="0">), Data </tspan><tspan class="cls-43" x="166.55" y="0">R</tspan><tspan class="cls-129" x="172.12" y="0">etrievals (40</tspan><tspan class="cls-163" x="224.74" y="0">0</tspan><tspan x="230.1" y="0">0 GB per month), Data </tspan><tspan class="cls-22" x="329.16" y="0">r</tspan><tspan x="332.5" y="0">eturned </tspan><tspan class="cls-159" x="369.69" y="0">b</tspan><tspan x="375.55" y="0">y S3</tspan></text>
+      <text class="cls-62" transform="translate(705.5 506.09)"><tspan x="0" y="0">Sele</tspan><tspan class="cls-75" x="18.17" y="0">c</tspan><tspan x="22.96" y="0">t (4000 GB per m</tspan><tspan class="cls-163" x="95.77" y="0">o</tspan><tspan class="cls-53" x="101.51" y="0">nth), Data scanned </tspan><tspan class="cls-43" x="185.83" y="0">b</tspan><tspan x="191.73" y="0">y S3 Sele</tspan><tspan class="cls-101" x="229.86" y="0">c</tspan><tspan x="234.66" y="0">t (4000 GB pe</tspan><tspan class="cls-126" x="293.05" y="0">r</tspan><tspan x="296.46" y="0" xml:space="preserve"> month) S3 Glacier F</tspan><tspan class="cls-126" x="383.85" y="0">l</tspan><tspan x="386.31" y="0">exible</tspan></text>
+      <text class="cls-62" transform="translate(705.5 522.59)"><tspan class="cls-23" x="0" y="0">R</tspan><tspan x="5.56" y="0">etrieval </tspan><tspan class="cls-154" x="40.27" y="0">A</tspan><tspan class="cls-85" x="46.41" y="0">v</tspan><tspan x="51.35" y="0">erage Obje</tspan><tspan class="cls-75" x="99.49" y="0">c</tspan><tspan x="104.27" y="0">t Si</tspan><tspan class="cls-85" x="117.61" y="0">z</tspan><tspan x="122" y="0">e (10000 MB), P</tspan><tspan class="cls-159" x="188.72" y="0">r</tspan><tspan class="cls-22" x="192.04" y="0">o</tspan><tspan x="197.71" y="0">visioned Capaci</tspan><tspan class="cls-82" x="266.18" y="0">t</tspan><tspan x="269.8" y="0">y Units (1), null (1)</tspan><tspan class="cls-126" x="347.81" y="0">,</tspan><tspan x="349.96" y="0" xml:space="preserve"> S3 Glacier</tspan></text>
+      <text class="cls-62" transform="translate(705.5 539.09)"><tspan x="0" y="0">Flexibl</tspan><tspan class="cls-126" x="28.62" y="0">e</tspan><tspan x="33.86" y="0"> </tspan><tspan class="cls-23" x="36.09" y="0">R</tspan><tspan x="41.65" y="0">etrieval storage </tspan><tspan class="cls-134" x="111.6" y="0">(</tspan><tspan x="114.55" y="0">4000 GB per </tspan><tspan class="cls-126" x="169.92" y="0">m</tspan><tspan class="cls-129" x="178.65" y="0">onth), PU</tspan><tspan class="cls-44" x="219.31" y="0">T</tspan><tspan class="cls-53" x="223.8" y="0">, </tspan><tspan class="cls-166" x="228.2" y="0">C</tspan><tspan x="234.02" y="0">O</tspan><tspan class="cls-133" x="241.25" y="0">P</tspan><tspan class="cls-156" x="246.69" y="0">Y</tspan><tspan x="251.6" y="0">, P</tspan><tspan class="cls-115" x="261.58" y="0">O</tspan><tspan class="cls-129" x="268.71" y="0">S</tspan><tspan class="cls-1" x="273.89" y="0">T</tspan><tspan x="278.38" y="0">, LIST </tspan><tspan class="cls-22" x="302.87" y="0">r</tspan><tspan x="306.21" y="0">equests to S3 Glacier</tspan></text>
+      <text class="cls-62" transform="translate(705.5 555.59)"><tspan x="0" y="0">Flexibl</tspan><tspan class="cls-126" x="28.62" y="0">e</tspan><tspan x="33.86" y="0"> </tspan><tspan class="cls-23" x="36.09" y="0">R</tspan><tspan x="41.65" y="0">etrieval (1</tspan><tspan class="cls-134" x="84.72" y="0">0</tspan><tspan x="90.08" y="0">00000), Lif</tspan><tspan class="cls-163" x="134.87" y="0">e</tspan><tspan class="cls-131" x="140.11" y="0">c</tspan><tspan class="cls-85" x="144.92" y="0">y</tspan><tspan x="149.76" y="0">cle </tspan><tspan class="cls-45" x="164.43" y="0">T</tspan><tspan x="169.07" y="0">ransitions into S3 Glacier F</tspan><tspan class="cls-126" x="283.97" y="0">l</tspan><tspan class="cls-129" x="286.42" y="0">exible </tspan><tspan class="cls-85" x="314.94" y="0">R</tspan><tspan class="cls-129" x="320.49" y="0">etrieval (1</tspan><tspan class="cls-163" x="363.55" y="0">0</tspan><tspan x="368.92" y="0">00000),</tspan></text>
+      <text class="cls-62" transform="translate(705.5 572.09)"><tspan class="cls-23" x="0" y="0">R</tspan><tspan x="5.56" y="0">esto</tspan><tspan class="cls-85" x="24.22" y="0">r</tspan><tspan x="27.55" y="0">e </tspan><tspan class="cls-22" x="35.04" y="0">r</tspan><tspan x="38.38" y="0">equests (Standa</tspan><tspan class="cls-153" x="108.12" y="0">r</tspan><tspan x="111.48" y="0">d) (10), </tspan><tspan class="cls-22" x="143.74" y="0">R</tspan><tspan x="149.3" y="0">esto</tspan><tspan class="cls-22" x="167.96" y="0">r</tspan><tspan x="171.29" y="0">e </tspan><tspan class="cls-115" x="178.78" y="0">r</tspan><tspan class="cls-129" x="182.11" y="0">equests (Expedited) (10), </tspan><tspan class="cls-85" x="291.97" y="0">R</tspan><tspan x="297.51" y="0">esto</tspan><tspan class="cls-70" x="316.17" y="0">r</tspan><tspan class="cls-129" x="319.51" y="0">e </tspan><tspan class="cls-85" x="327" y="0">r</tspan><tspan x="330.32" y="0">equests (Bulk) (10),</tspan></text>
+      <text class="cls-62" transform="translate(705.5 588.59)"><tspan x="0" y="0">Data </tspan><tspan class="cls-153" x="22.82" y="0">r</tspan><tspan x="26.18" y="0">etrievals (Standa</tspan><tspan class="cls-22" x="98.54" y="0">r</tspan><tspan x="101.88" y="0">d) (4000 GB pe</tspan><tspan class="cls-163" x="165.7" y="0">r</tspan><tspan class="cls-53" x="169.11" y="0" xml:space="preserve"> month), Data </tspan><tspan class="cls-34" x="231.18" y="0">r</tspan><tspan x="234.53" y="0">etrievals (Exp</tspan><tspan class="cls-126" x="292.38" y="0">e</tspan><tspan x="297.62" y="0">dited) (400 GB per month),</tspan></text>
+      <text class="cls-62" transform="translate(705.5 605.09)"><tspan x="0" y="0">Data </tspan><tspan class="cls-153" x="22.82" y="0">r</tspan><tspan x="26.18" y="0">etrievals (Bu</tspan><tspan class="cls-126" x="79.49" y="0">l</tspan><tspan class="cls-129" x="81.95" y="0">k) (4000 GB per </tspan><tspan class="cls-163" x="150.43" y="0">m</tspan><tspan x="159.17" y="0">onth) S3 Glacier Deep </tspan><tspan class="cls-142" x="256.17" y="0">A</tspan><tspan class="cls-22" x="262.57" y="0">r</tspan><tspan x="265.91" y="0">chi</tspan><tspan class="cls-85" x="278.9" y="0">v</tspan><tspan x="283.84" y="0">e </tspan><tspan class="cls-111" x="291.33" y="0">A</tspan><tspan class="cls-85" x="297.49" y="0">v</tspan><tspan class="cls-129" x="302.44" y="0">erage Obje</tspan><tspan class="cls-75" x="350.57" y="0">c</tspan><tspan x="355.36" y="0">t Si</tspan><tspan class="cls-92" x="368.69" y="0">z</tspan><tspan x="373.07" y="0">e (10000</tspan></text>
+      <text class="cls-62" transform="translate(705.5 621.59)"><tspan x="0" y="0">MB), S3 Glacier Dee</tspan><tspan class="cls-134" x="84.22" y="0">p</tspan><tspan class="cls-53" x="90.16" y="0" xml:space="preserve"> A</tspan><tspan class="cls-22" x="98.81" y="0">r</tspan><tspan x="102.15" y="0">chi</tspan><tspan class="cls-22" x="115.14" y="0">v</tspan><tspan x="120.1" y="0">e storage (400</tspan><tspan class="cls-163" x="181.97" y="0">0</tspan><tspan class="cls-53" x="187.34" y="0" xml:space="preserve"> GB per month), PU</tspan><tspan class="cls-8" x="270.57" y="0">T</tspan><tspan class="cls-53" x="275.04" y="0">, </tspan><tspan class="cls-138" x="279.44" y="0">C</tspan><tspan x="285.27" y="0">O</tspan><tspan class="cls-42" x="292.5" y="0">P</tspan><tspan class="cls-156" x="297.94" y="0">Y</tspan><tspan class="cls-129" x="302.85" y="0">, P</tspan><tspan class="cls-92" x="312.83" y="0">O</tspan><tspan x="319.95" y="0">S</tspan><tspan class="cls-1" x="325.13" y="0">T</tspan><tspan class="cls-129" x="329.62" y="0">, LIST </tspan><tspan class="cls-22" x="354.11" y="0">r</tspan><tspan x="357.44" y="0">equests to S3</tspan></text>
+      <text class="cls-62" transform="translate(705.5 638.09)"><tspan x="0" y="0">Glacier Dee</tspan><tspan class="cls-142" x="49.92" y="0">p</tspan><tspan x="55.86" y="0" xml:space="preserve"> A</tspan><tspan class="cls-22" x="64.51" y="0">r</tspan><tspan x="67.85" y="0">chi</tspan><tspan class="cls-85" x="80.84" y="0">v</tspan><tspan x="85.78" y="0">e (10000</tspan><tspan class="cls-134" x="123.18" y="0">0</tspan><tspan x="128.54" y="0">), Life</tspan><tspan class="cls-75" x="151.66" y="0">c</tspan><tspan class="cls-70" x="156.45" y="0">y</tspan><tspan x="161.3" y="0">cle </tspan><tspan class="cls-110" x="175.97" y="0">T</tspan><tspan x="180.61" y="0">ransitions into S3 Glacie</tspan><tspan class="cls-163" x="284.73" y="0">r</tspan><tspan class="cls-53" x="288.15" y="0" xml:space="preserve"> Deep A</tspan><tspan class="cls-85" x="322.51" y="0">r</tspan><tspan x="325.84" y="0">chi</tspan><tspan class="cls-85" x="338.83" y="0">v</tspan><tspan x="343.77" y="0">e (100000</tspan><tspan class="cls-163" x="386.56" y="0">)</tspan><tspan x="389.52" y="0">,</tspan></text>
+      <text class="cls-62" transform="translate(705.5 654.59)"><tspan class="cls-23" x="0" y="0">R</tspan><tspan x="5.56" y="0">esto</tspan><tspan class="cls-85" x="24.22" y="0">r</tspan><tspan x="27.55" y="0">e </tspan><tspan class="cls-22" x="35.04" y="0">r</tspan><tspan x="38.38" y="0">equests (Standa</tspan><tspan class="cls-153" x="108.12" y="0">r</tspan><tspan x="111.48" y="0">d) (100), </tspan><tspan class="cls-85" x="149.13" y="0">R</tspan><tspan x="154.67" y="0">esto</tspan><tspan class="cls-22" x="173.33" y="0">r</tspan><tspan x="176.67" y="0">e </tspan><tspan class="cls-22" x="184.16" y="0">r</tspan><tspan x="187.5" y="0">equests (Bulk) (100), Data </tspan><tspan class="cls-22" x="300.14" y="0">r</tspan><tspan x="303.48" y="0">etrievals (Standa</tspan><tspan class="cls-22" x="375.84" y="0">r</tspan><tspan x="379.18" y="0">d) (10 GB</tspan></text>
+      <text class="cls-62" transform="translate(705.5 671.09)"><tspan x="0" y="0">per month), Data </tspan><tspan class="cls-22" x="76.74" y="0">r</tspan><tspan x="80.08" y="0">etrievals (Bulk) (</tspan><tspan class="cls-134" x="148.99" y="0">1</tspan><tspan x="154.35" y="0">0 GB per month) S3 Storage L</tspan><tspan class="cls-163" x="282.42" y="0">e</tspan><tspan x="287.66" y="0">ns Obje</tspan><tspan class="cls-101" x="320.89" y="0">c</tspan><tspan x="325.69" y="0">ts (1000 milli</tspan><tspan class="cls-163" x="380.93" y="0">o</tspan><tspan class="cls-53" x="386.68" y="0">n per</tspan></text>
+      <text class="cls-62" transform="translate(705.5 687.59)"><tspan x="0" y="0">month), S3 Batch Operations Jobs (1000 </tspan><tspan class="cls-142" x="176.44" y="0">p</tspan><tspan class="cls-129" x="182.38" y="0">er month), S3 Batch Operations Obje</tspan><tspan class="cls-75" x="342" y="0">c</tspan><tspan class="cls-129" x="346.79" y="0">ts (1000 mil</tspan><tspan class="cls-126" x="397.09" y="0">l</tspan><tspan x="399.55" y="0">ion</tspan></text>
+      <text class="cls-62" transform="translate(705.5 704.09)"><tspan x="0" y="0">per month), Si</tspan><tspan class="cls-92" x="61.56" y="0">z</tspan><tspan x="65.94" y="0">e of enc</tspan><tspan class="cls-135" x="100.27" y="0">r</tspan><tspan class="cls-53" x="104.05" y="0">ypted data (4000 GB), S3 I</tspan><tspan class="cls-42" x="215.51" y="0">n</tspan><tspan class="cls-85" x="221.19" y="0">v</tspan><tspan x="226.13" y="0">ento</tspan><tspan class="cls-167" x="246.46" y="0">r</tspan><tspan x="250.26" y="0">y (100 million </tspan><tspan class="cls-163" x="311.25" y="0">p</tspan><tspan x="317.2" y="0">er month), S3 Storage</tspan></text>
+      <text class="cls-62" transform="translate(705.5 720.59)"><tspan x="0" y="0">Class Analysis (100 million </tspan><tspan class="cls-134" x="115.72" y="0">p</tspan><tspan x="121.66" y="0">er month), S3 Obje</tspan><tspan class="cls-101" x="203.42" y="0">c</tspan><tspan x="208.22" y="0">t </tspan><tspan class="cls-98" x="213.92" y="0">T</tspan><tspan x="218.63" y="0">agging (100 thousand per month) G</tspan><tspan class="cls-163" x="375.76" y="0">E</tspan><tspan x="380.9" y="0">T</tspan></text>
+      <text class="cls-62" transform="translate(705.5 737.09)"><tspan class="cls-22" x="0" y="0">r</tspan><tspan x="3.34" y="0">equests f</tspan><tspan class="cls-22" x="42.64" y="0">r</tspan><tspan x="45.98" y="0">om S3 (100000</tspan><tspan class="cls-163" x="110.81" y="0">0</tspan><tspan x="116.18" y="0">000), Duration that the Lambda fun</tspan><tspan class="cls-6" x="270.23" y="0">c</tspan><tspan x="275.05" y="0">tion is set to e</tspan><tspan class="cls-115" x="335.49" y="0">x</tspan><tspan class="cls-129" x="340.25" y="0">ecute per </tspan><tspan class="cls-92" x="383.85" y="0">r</tspan><tspan x="387.17" y="0">equest</tspan></text>
+      <text class="cls-62" transform="translate(705.5 753.59)"><tspan x="0" y="0">(in ms) (100), A</tspan><tspan class="cls-163" x="64.56" y="0">m</tspan><tspan x="73.3" y="0">ount of memo</tspan><tspan class="cls-29" x="135.97" y="0">r</tspan><tspan x="139.76" y="0">y allocated to the Lambda fun</tspan><tspan class="cls-131" x="270.25" y="0">c</tspan><tspan class="cls-129" x="275.06" y="0">tion (1000 MB), Si</tspan><tspan class="cls-92" x="350.71" y="0">z</tspan><tspan x="355.09" y="0">e of data</tspan></text>
+      <g class="cls-7">
+        <text class="cls-62" transform="translate(705.5 770.09)"><tspan class="cls-22" x="0" y="0">r</tspan><tspan x="3.34" y="0">eturned </tspan><tspan class="cls-85" x="40.53" y="0">b</tspan><tspan x="46.4" y="0">y S3 Obje</tspan><tspan class="cls-101" x="87.38" y="0">c</tspan><tspan x="92.18" y="0">t Lambda (10 KB) S3 Glacier</tspan><tspan class="cls-28" x="211.37" y="0"> </tspan><tspan class="cls-129" x="213.57" y="0">Instant </tspan><tspan class="cls-147" x="246.13" y="0">R</tspan><tspan x="251.71" y="0">etrieval storage </tspan><tspan class="cls-163" x="321.66" y="0">(</tspan><tspan x="324.62" y="0">100 GB per month),</tspan></text>
+      </g>
+      <text class="cls-77" transform="translate(632 9)"><tspan x="0" y="0">My Estimate - </tspan><tspan class="cls-38" x="59.71" y="0">A</tspan><tspan x="66.12" y="0">WS Pricing Calculator</tspan></text>
+      <text class="cls-77" transform="translate(1115.49 9)"><tspan x="0" y="0">https://ca</tspan><tspan class="cls-126" x="36.66" y="0">l</tspan><tspan x="39.42" y="0">culato</tspan><tspan class="cls-86" x="63.85" y="0">r</tspan><tspan x="66.63" y="0">.aws/#/estima</tspan><tspan class="cls-126" x="121.34" y="0">t</tspan><tspan x="124.1" y="0">e</tspan></text>
+      <text class="cls-77" transform="translate(632 790)"><tspan x="0" y="0">2 of 4</tspan></text>
+      <text class="cls-77" transform="translate(1170.67 790)"><tspan x="0" y="0">03/06/2024, 21:02</tspan></text>
+    </g>
+  </g>
+  <g class="cls-41">
+    <g class="cls-73">
+      <g class="cls-108">
+        <rect class="cls-68" x="1300" y="-1442.25" width="540" height="2295.79"/>
+        <rect class="cls-68" x="1300" y="-1442.25" width="540" height="2295.79"/>
+      </g>
+      <g class="cls-164">
+        <rect class="cls-67" x="1330" y="125.79" width="480" height="1.5"/>
+      </g>
+      <g class="cls-102">
+        <rect class="cls-67" x="1330" y="257.79" width="480" height="1.5"/>
+      </g>
+      <g class="cls-46">
+        <rect class="cls-67" x="1330" y="389.79" width="480" height="1.5"/>
+      </g>
+      <g class="cls-60">
+        <rect class="cls-67" x="1330" y="505.29" width="480" height="1.5"/>
+      </g>
+      <g class="cls-84">
+        <rect class="cls-67" x="1330" y="604.29" width="480" height="1.5"/>
+      </g>
+      <g class="cls-170">
+        <rect class="cls-67" x="1330" y="719.79" width="480" height="1.5"/>
+      </g>
+      <g class="cls-143">
+        <text class="cls-62" transform="translate(1337.5 34.79)"><tspan class="cls-22" x="0" y="0">r</tspan><tspan x="3.34" y="0">eturned </tspan><tspan class="cls-85" x="40.53" y="0">b</tspan><tspan x="46.4" y="0">y S3 Obje</tspan><tspan class="cls-101" x="87.38" y="0">c</tspan><tspan x="92.18" y="0">t Lambda (10 KB) S3 Glacier</tspan><tspan class="cls-28" x="211.37" y="0"> </tspan><tspan class="cls-129" x="213.57" y="0">Instant </tspan><tspan class="cls-147" x="246.13" y="0">R</tspan><tspan x="251.71" y="0">etrieval storage </tspan><tspan class="cls-163" x="321.66" y="0">(</tspan><tspan x="324.62" y="0">100 GB per month),</tspan></text>
+      </g>
+      <text class="cls-62" transform="translate(1337.5 51.29)"><tspan x="0" y="0">PU</tspan><tspan class="cls-1" x="12.38" y="0">T</tspan><tspan x="16.87" y="0">, </tspan><tspan class="cls-97" x="21.27" y="0">C</tspan><tspan class="cls-53" x="27.09" y="0">O</tspan><tspan class="cls-133" x="34.32" y="0">P</tspan><tspan class="cls-156" x="39.76" y="0">Y</tspan><tspan x="44.67" y="0">, P</tspan><tspan class="cls-159" x="54.65" y="0">O</tspan><tspan class="cls-129" x="61.77" y="0">S</tspan><tspan class="cls-1" x="66.95" y="0">T</tspan><tspan x="71.44" y="0">, LIST </tspan><tspan class="cls-22" x="95.93" y="0">r</tspan><tspan x="99.26" y="0">equests to S3 Glacier Instant </tspan><tspan class="cls-22" x="224.72" y="0">R</tspan><tspan class="cls-129" x="230.27" y="0">etrieval (10</tspan><tspan class="cls-163" x="278.73" y="0">0</tspan><tspan x="284.09" y="0">0000), GE</tspan><tspan class="cls-8" x="324.97" y="0">T</tspan><tspan x="329.44" y="0">, SEL</tspan><tspan class="cls-27" x="349.14" y="0">E</tspan><tspan x="354.08" y="0">C</tspan><tspan class="cls-1" x="360.17" y="0">T</tspan><tspan x="364.67" y="0">, and all</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 67.79)"><tspan x="0" y="0">other </tspan><tspan class="cls-85" x="25.99" y="0">r</tspan><tspan x="29.32" y="0">equests f</tspan><tspan class="cls-22" x="68.62" y="0">r</tspan><tspan x="71.96" y="0">om S3 Glacier Instant </tspan><tspan class="cls-175" x="166.45" y="0">R</tspan><tspan x="172.01" y="0">etrieval (10</tspan><tspan class="cls-134" x="220.46" y="0">0</tspan><tspan x="225.82" y="0">0000), Lif</tspan><tspan class="cls-163" x="265.22" y="0">e</tspan><tspan class="cls-6" x="270.46" y="0">c</tspan><tspan class="cls-70" x="275.28" y="0">y</tspan><tspan class="cls-129" x="280.13" y="0">cle </tspan><tspan class="cls-20" x="294.8" y="0">T</tspan><tspan x="299.43" y="0">ransition </tspan><tspan class="cls-22" x="340.12" y="0">r</tspan><tspan class="cls-129" x="343.46" y="0">equests (1000),</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 84.29)"><tspan x="0" y="0">Data </tspan><tspan class="cls-153" x="22.82" y="0">R</tspan><tspan x="28.39" y="0">etrievals (40</tspan><tspan class="cls-134" x="81.01" y="0">0</tspan><tspan x="86.36" y="0">0 GB per month), Data </tspan><tspan class="cls-22" x="185.42" y="0">r</tspan><tspan class="cls-129" x="188.75" y="0">eturned </tspan><tspan class="cls-92" x="225.95" y="0">b</tspan><tspan x="231.8" y="0">y S3 Sele</tspan><tspan class="cls-114" x="269.94" y="0">c</tspan><tspan x="274.74" y="0">t (4000 GB pe</tspan><tspan class="cls-163" x="333.13" y="0">r</tspan><tspan x="336.54" y="0" xml:space="preserve"> month), Data</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 100.79)"><tspan x="0" y="0">scanned </tspan><tspan class="cls-23" x="38.99" y="0">b</tspan><tspan x="44.88" y="0">y S3 Sele</tspan><tspan class="cls-114" x="83.01" y="0">c</tspan><tspan x="87.81" y="0">t (4000 GB per</tspan><tspan class="cls-142" x="149.63" y="0"> </tspan><tspan x="151.83" y="0">month) </tspan><tspan class="cls-66" x="186.69" y="0">D</tspan><tspan class="cls-129" x="193.38" y="0">T Inbound: Internet (10 GB per </tspan><tspan class="cls-126" x="327.7" y="0">m</tspan><tspan x="336.43" y="0">onth), </tspan><tspan class="cls-36" x="364.71" y="0">D</tspan><tspan x="371.4" y="0">T</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 117.29)"><tspan x="0" y="0">Outbound: Internet (10 GB per month) Numb</tspan><tspan class="cls-163" x="197.32" y="0">e</tspan><tspan x="202.56" y="0">r of </tspan><tspan class="cls-115" x="219.28" y="0">A</tspan><tspan class="cls-133" x="225.6" y="0">c</tspan><tspan class="cls-104" x="230.16" y="0">c</tspan><tspan x="234.7" y="0">essGrants </tspan><tspan class="cls-23" x="279.24" y="0">R</tspan><tspan x="284.81" y="0">equests (1000)</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 142.79)"><tspan x="0" y="0">Ama</tspan><tspan class="cls-34" x="20.24" y="0">z</tspan><tspan class="cls-129" x="24.65" y="0">on Elastic</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 159.29)"><tspan x="0" y="0">B</tspan><tspan class="cls-34" x="5.69" y="0">l</tspan><tspan x="8.08" y="0">ock Store (EBS)</tspan></text>
+      <text class="cls-50" transform="translate(1475.92 142.79)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+      <text class="cls-50" transform="translate(1485.12 159.29)"><tspan x="0" y="0">applied</tspan></text>
+      <text class="cls-50" transform="translate(1548.67 142.79)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-120" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-162" x="129.27" y="0">D</tspan><tspan class="cls-129" x="157.76" y="0">2,304.2</tspan><tspan class="cls-134" x="189.04" y="0">1</tspan><tspan x="194.39" y="0" xml:space="preserve"> USD</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 183.29)"><tspan x="0" y="0">Status</tspan></text>
+      <text class="cls-50" transform="translate(1368.62 183.29)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1373.97 183.29)"><tspan x="0" y="0">-</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 199.79)"><tspan x="0" y="0">Description</tspan></text>
+      <text class="cls-50" transform="translate(1393.97 199.79)"><tspan x="0" y="0">:</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 216.29)"><tspan x="0" y="0">Con</tspan></text>
+      <text class="cls-51" transform="translate(1356.62 216.29)"><tspan x="0" y="0">ﬁ</tspan></text>
+      <text class="cls-51" transform="translate(1363.52 216.29)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+      <text class="cls-50" transform="translate(1418.8 216.29)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1424.15 216.29)"><tspan x="0" y="0">Number of </tspan><tspan class="cls-159" x="49.4" y="0">v</tspan><tspan class="cls-129" x="54.34" y="0">olumes (2), </tspan><tspan class="cls-154" x="104.51" y="0">A</tspan><tspan class="cls-85" x="110.66" y="0">v</tspan><tspan x="115.6" y="0">erage duration each instan</tspan><tspan class="cls-5" x="232.55" y="0">c</tspan><tspan x="237.1" y="0">e runs (730 hou</tspan><tspan class="cls-163" x="304.76" y="0">r</tspan><tspan x="308.17" y="0">s per</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 232.79)"><tspan x="0" y="0">month), Storage amount per </tspan><tspan class="cls-94" x="127.09" y="0">v</tspan><tspan x="132.01" y="0">olume (4000 </tspan><tspan class="cls-163" x="189.04" y="0">G</tspan><tspan x="195.8" y="0">B), Snapshot </tspan><tspan class="cls-158" x="252.36" y="0">F</tspan><tspan class="cls-22" x="257.34" y="0">r</tspan><tspan x="260.68" y="0">equen</tspan><tspan class="cls-131" x="288.72" y="0">c</tspan><tspan x="293.53" y="0">y (2x Dail</tspan><tspan class="cls-131" x="333.15" y="0">y</tspan><tspan class="cls-129" x="338.2" y="0">), Amount changed</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 249.29)"><tspan x="0" y="0">per snapshot (100 GB),</tspan><tspan class="cls-142" x="98.36" y="0"> </tspan><tspan class="cls-129" x="100.56" y="0">Number of snapshots to </tspan><tspan class="cls-85" x="208.05" y="0">r</tspan><tspan x="211.38" y="0">esto</tspan><tspan class="cls-22" x="230.04" y="0">r</tspan><tspan x="233.38" y="0">e (1)</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 274.79)"><tspan class="cls-87" x="0" y="0">A</tspan><tspan x="6.02" y="0">WS </tspan><tspan class="cls-27" x="22.3" y="0">F</tspan><tspan class="cls-53" x="27.19" y="0">argate</tspan></text>
+      <text class="cls-50" transform="translate(1475.92 274.79)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+      <text class="cls-50" transform="translate(1485.12 291.29)"><tspan x="0" y="0">applied</tspan></text>
+      <text class="cls-50" transform="translate(1548.67 274.79)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-120" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-16" x="129.27" y="0">D</tspan><tspan x="151.61" y="0">14,347.0</tspan><tspan class="cls-163" x="188.27" y="0">9</tspan><tspan x="193.64" y="0" xml:space="preserve"> USD</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 315.29)"><tspan x="0" y="0">Status</tspan></text>
+      <text class="cls-50" transform="translate(1368.62 315.29)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1373.97 315.29)"><tspan x="0" y="0">-</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 331.79)"><tspan x="0" y="0">Description</tspan></text>
+      <text class="cls-50" transform="translate(1393.97 331.79)"><tspan x="0" y="0">:</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 348.29)"><tspan x="0" y="0">Con</tspan></text>
+      <text class="cls-51" transform="translate(1356.62 348.29)"><tspan x="0" y="0">ﬁ</tspan></text>
+      <text class="cls-51" transform="translate(1363.52 348.29)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+      <text class="cls-50" transform="translate(1418.8 348.29)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1424.15 348.29)"><tspan x="0" y="0">Operating system (Linux), CPU A</tspan><tspan class="cls-85" x="141.17" y="0">r</tspan><tspan x="144.5" y="0">chite</tspan><tspan class="cls-101" x="166.22" y="0">c</tspan><tspan x="171.02" y="0">tu</tspan><tspan class="cls-22" x="180.28" y="0">r</tspan><tspan x="183.62" y="0">e (x86), </tspan><tspan class="cls-166" x="217.1" y="0">A</tspan><tspan class="cls-85" x="223.26" y="0">v</tspan><tspan class="cls-129" x="228.2" y="0">erage duration (176</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 364.79)"><tspan x="0" y="0">hours), Number o</tspan><tspan class="cls-163" x="76.46" y="0">f</tspan><tspan x="79.5" y="0" xml:space="preserve"> tasks or pods (10 per d</tspan><tspan class="cls-21" x="180" y="0">a</tspan><tspan class="cls-152" x="184.89" y="0">y</tspan><tspan x="189.94" y="0">), Amount of eph</tspan><tspan class="cls-163" x="263.7" y="0">e</tspan><tspan x="268.94" y="0">meral storage allo</tspan><tspan class="cls-126" x="347.19" y="0">c</tspan><tspan x="351.87" y="0">ated for</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 381.29)"><tspan x="0" y="0">Ama</tspan><tspan class="cls-92" x="20.24" y="0">z</tspan><tspan x="24.62" y="0">on </tspan><tspan class="cls-168" x="38.44" y="0">E</tspan><tspan x="43.41" y="0">CS (20 GB), Amount o</tspan><tspan class="cls-126" x="136.76" y="0">f</tspan><tspan x="139.81" y="0" xml:space="preserve"> memo</tspan><tspan class="cls-167" x="170.57" y="0">r</tspan><tspan x="174.37" y="0">y allocated (16 GB)</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 406.79)"><tspan class="cls-87" x="0" y="0">A</tspan><tspan x="6.02" y="0">WS CodeDep</tspan><tspan class="cls-159" x="63.57" y="0">l</tspan><tspan class="cls-23" x="65.93" y="0">o</tspan><tspan class="cls-53" x="71.61" y="0">y</tspan></text>
+      <text class="cls-50" transform="translate(1475.92 406.79)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+      <text class="cls-50" transform="translate(1485.12 423.29)"><tspan x="0" y="0">applied</tspan></text>
+      <text class="cls-50" transform="translate(1548.67 406.79)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-120" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-162" x="129.27" y="0">D</tspan><tspan class="cls-129" x="157.76" y="0">4,000.0</tspan><tspan class="cls-163" x="189.04" y="0">0</tspan><tspan x="194.4" y="0" xml:space="preserve"> USD</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 447.29)"><tspan x="0" y="0">Status</tspan></text>
+      <text class="cls-50" transform="translate(1368.62 447.29)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1373.97 447.29)"><tspan x="0" y="0">-</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 463.79)"><tspan x="0" y="0">Description</tspan></text>
+      <text class="cls-50" transform="translate(1393.97 463.79)"><tspan x="0" y="0">:</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 480.29)"><tspan x="0" y="0">Con</tspan></text>
+      <text class="cls-51" transform="translate(1356.62 480.29)"><tspan x="0" y="0">ﬁ</tspan></text>
+      <text class="cls-51" transform="translate(1363.52 480.29)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+      <text class="cls-50" transform="translate(1418.8 480.29)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1424.15 480.29)"><tspan x="0" y="0">Number of on-p</tspan><tspan class="cls-92" x="70.19" y="0">r</tspan><tspan x="73.51" y="0">emise instan</tspan><tspan class="cls-5" x="128.43" y="0">c</tspan><tspan x="132.98" y="0">es (100), Numbe</tspan><tspan class="cls-163" x="203.83" y="0">r</tspan><tspan class="cls-53" x="207.25" y="0" xml:space="preserve"> of depl</tspan><tspan class="cls-85" x="240.16" y="0">o</tspan><tspan x="245.82" y="0">yments (2000 per</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 496.79)"><tspan x="0" y="0">month)</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 522.29)"><tspan class="cls-87" x="0" y="0">A</tspan><tspan x="6.02" y="0">WS CodePipeline</tspan></text>
+      <text class="cls-50" transform="translate(1475.92 522.29)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+      <text class="cls-50" transform="translate(1485.12 538.79)"><tspan x="0" y="0">applied</tspan></text>
+      <text class="cls-50" transform="translate(1548.67 522.29)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-120" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-88" x="129.27" y="0">D</tspan><tspan class="cls-129" x="172.66" y="0">99.00 USD</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 562.79)"><tspan x="0" y="0">Status</tspan></text>
+      <text class="cls-50" transform="translate(1368.62 562.79)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1373.97 562.79)"><tspan x="0" y="0">-</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 579.29)"><tspan x="0" y="0">Description</tspan></text>
+      <text class="cls-50" transform="translate(1393.97 579.29)"><tspan x="0" y="0">:</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 595.79)"><tspan x="0" y="0">Con</tspan></text>
+      <text class="cls-51" transform="translate(1356.62 595.79)"><tspan x="0" y="0">ﬁ</tspan></text>
+      <text class="cls-51" transform="translate(1363.52 595.79)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+      <text class="cls-50" transform="translate(1418.8 595.79)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1424.15 595.79)"><tspan x="0" y="0">Number of a</tspan><tspan class="cls-75" x="54.46" y="0">c</tspan><tspan class="cls-129" x="59.25" y="0">ti</tspan><tspan class="cls-85" x="65.18" y="0">v</tspan><tspan x="70.13" y="0">e pipelin</tspan><tspan class="cls-163" x="108.04" y="0">e</tspan><tspan x="113.28" y="0">s used per a</tspan><tspan class="cls-5" x="164.97" y="0">cc</tspan><tspan x="174.07" y="0">ount per month (100)</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 621.29)"><tspan x="0" y="0">Ama</tspan><tspan class="cls-34" x="20.24" y="0">z</tspan><tspan class="cls-129" x="24.65" y="0">on Elastic</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 637.79)"><tspan x="0" y="0">Container </tspan><tspan class="cls-22" x="45.42" y="0">R</tspan><tspan x="50.98" y="0">egist</tspan><tspan class="cls-149" x="72.2" y="0">r</tspan><tspan x="76.06" y="0">y</tspan></text>
+      <text class="cls-50" transform="translate(1475.92 621.29)"><tspan x="0" y="0">No g</tspan><tspan class="cls-22" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+      <text class="cls-50" transform="translate(1485.12 637.79)"><tspan x="0" y="0">applied</tspan></text>
+      <text class="cls-50" transform="translate(1548.67 621.29)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-120" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-162" x="129.27" y="0">D</tspan><tspan class="cls-129" x="157.76" y="0">1,092.1</tspan><tspan class="cls-134" x="189.04" y="0">6</tspan><tspan x="194.39" y="0" xml:space="preserve"> USD</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 661.79)"><tspan x="0" y="0">Status</tspan></text>
+      <text class="cls-50" transform="translate(1368.62 661.79)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1373.97 661.79)"><tspan x="0" y="0">-</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 678.29)"><tspan x="0" y="0">Description</tspan></text>
+      <text class="cls-50" transform="translate(1393.97 678.29)"><tspan x="0" y="0">:</tspan></text>
+      <text class="cls-51" transform="translate(1337.5 694.79)"><tspan x="0" y="0">Con</tspan></text>
+      <text class="cls-51" transform="translate(1356.62 694.79)"><tspan x="0" y="0">ﬁ</tspan></text>
+      <text class="cls-51" transform="translate(1363.52 694.79)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-172" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+      <text class="cls-50" transform="translate(1418.8 694.79)"><tspan x="0" y="0">: </tspan></text>
+      <text class="cls-62" transform="translate(1424.15 694.79)"><tspan class="cls-66" x="0" y="0">D</tspan><tspan x="6.69" y="0">T Inbound: Internet (1 TB per </tspan><tspan class="cls-163" x="134.06" y="0">m</tspan><tspan x="142.8" y="0">onth), </tspan><tspan class="cls-66" x="171.07" y="0">D</tspan><tspan class="cls-129" x="177.76" y="0">T Outbound: Internet (1 TB per</tspan></text>
+      <text class="cls-62" transform="translate(1337.5 711.29)"><tspan x="0" y="0">month), Amount of data sto</tspan><tspan class="cls-22" x="121.49" y="0">r</tspan><tspan class="cls-129" x="124.83" y="0">ed (10000 GB pe</tspan><tspan class="cls-163" x="196.32" y="0">r</tspan><tspan x="199.73" y="0" xml:space="preserve"> month), Data transfer </tspan><tspan class="cls-133" x="297.74" y="0">c</tspan><tspan x="302.3" y="0">ost (92.16)</tspan></text>
+      <text class="cls-77" transform="translate(1264 9)"><tspan x="0" y="0">My Estimate - </tspan><tspan class="cls-38" x="59.71" y="0">A</tspan><tspan x="66.12" y="0">WS Pricing Calculator</tspan></text>
+      <text class="cls-77" transform="translate(1747.49 9)"><tspan x="0" y="0">https://ca</tspan><tspan class="cls-126" x="36.66" y="0">l</tspan><tspan x="39.42" y="0">culato</tspan><tspan class="cls-86" x="63.85" y="0">r</tspan><tspan x="66.63" y="0">.aws/#/estima</tspan><tspan class="cls-126" x="121.34" y="0">t</tspan><tspan x="124.1" y="0">e</tspan></text>
+      <text class="cls-77" transform="translate(1264 790)"><tspan x="0" y="0">3 of 4</tspan></text>
+      <text class="cls-77" transform="translate(1802.67 790)"><tspan x="0" y="0">03/06/2024, 21:02</tspan></text>
+    </g>
+  </g>
+  <g class="cls-41">
+    <g class="cls-106">
+      <g class="cls-130">
+        <rect class="cls-68" x="1932" y="-2177.55" width="540" height="2295.79"/>
+        <rect class="cls-68" x="1932" y="-2177.55" width="540" height="2295.79"/>
+        <text class="cls-52" transform="translate(1962 39.99)"><tspan x="0" y="0">Ackn</tspan><tspan class="cls-136" x="18.76" y="0">o</tspan><tspan x="23.62" y="0">w</tspan><tspan class="cls-175" x="30.24" y="0">l</tspan><tspan class="cls-3" x="32.28" y="0">edgement</tspan></text>
+        <text class="cls-63" transform="translate(1962 54.99)"><tspan class="cls-99" x="0" y="0">A</tspan><tspan class="cls-118" x="5.11" y="0">WS Pricing</tspan><tspan class="cls-140" x="45.07" y="0"> </tspan><tspan x="47" y="0">Calculator p</tspan><tspan class="cls-81" x="92.02" y="0">r</tspan><tspan class="cls-175" x="94.88" y="0">o</tspan><tspan x="99.74" y="0">vides only an estimate of</tspan><tspan class="cls-165" x="192.64" y="0"> </tspan><tspan class="cls-175" x="194.58" y="0">y</tspan><tspan x="198.73" y="0">our </tspan><tspan class="cls-39" x="213.49" y="0">A</tspan><tspan x="218.61" y="0">WS fees and do</tspan><tspan class="cls-165" x="276.02" y="0">e</tspan><tspan class="cls-118" x="280.55" y="0">sn&apos;t include a</tspan><tspan class="cls-107" x="329.74" y="0">n</tspan><tspan class="cls-118" x="334.62" y="0">y ta</tspan><tspan class="cls-81" x="348.08" y="0">x</tspan><tspan x="352.16" y="0">es that might appl</tspan><tspan class="cls-4" x="420.56" y="0">y</tspan><tspan class="cls-118" x="424.36" y="0">.</tspan></text>
+        <text class="cls-63" transform="translate(1962 69.74)"><tspan class="cls-89" x="0" y="0">Y</tspan><tspan x="4.38" y="0">our a</tspan><tspan class="cls-157" x="23.47" y="0">c</tspan><tspan x="27.59" y="0">tual fees depend </tspan><tspan class="cls-113" x="92.21" y="0">o</tspan><tspan x="97.18" y="0">n a varie</tspan><tspan class="cls-30" x="128.55" y="0">t</tspan><tspan class="cls-118" x="131.67" y="0">y of fa</tspan><tspan class="cls-157" x="154.26" y="0">c</tspan><tspan class="cls-3" x="158.38" y="0">tors,</tspan><tspan class="cls-113" x="174.67" y="0"> </tspan><tspan class="cls-3" x="176.6" y="0">including </tspan><tspan class="cls-100" x="213.94" y="0">y</tspan><tspan class="cls-118" x="218.1" y="0">our a</tspan><tspan class="cls-24" x="237.19" y="0">c</tspan><tspan class="cls-3" x="241.31" y="0">tual usage of </tspan><tspan class="cls-116" x="291.41" y="0">A</tspan><tspan x="296.54" y="0">WS se</tspan><tspan class="cls-56" x="318.57" y="0">r</tspan><tspan class="cls-118" x="321.83" y="0">vi</tspan><tspan class="cls-74" x="328.27" y="0">c</tspan><tspan x="332.18" y="0">es.</tspan></text>
+        <text class="cls-64" transform="translate(2342.92 69.74)"><tspan x="0" y="0">Learn mo</tspan><tspan class="cls-175" x="35.39" y="0">r</tspan><tspan class="cls-3" x="38.25" y="0">e</tspan></text>
+        <text class="cls-64" transform="translate(2389.44 69.74)"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g class="cls-26">
+        <polyline class="cls-11" points="2399.5 62.1 2402.5 62.1 2402.5 65.1"/>
+      </g>
+      <g class="cls-19">
+        <line class="cls-9" x1="2396.5" y1="68.1" x2="2402.5" y2="62.1"/>
+      </g>
+      <g class="cls-76">
+        <polyline class="cls-12" points="2402.5 67.39 2402.5 71.1 2393.5 71.1 2393.5 62.1 2397.25 62.1"/>
+      </g>
+      <text class="cls-77" transform="translate(1896 9)"><tspan x="0" y="0">My Estimate - </tspan><tspan class="cls-38" x="59.71" y="0">A</tspan><tspan x="66.12" y="0">WS Pricing Calculator</tspan></text>
+      <text class="cls-77" transform="translate(2379.49 9)"><tspan x="0" y="0">https://ca</tspan><tspan class="cls-126" x="36.66" y="0">l</tspan><tspan x="39.42" y="0">culato</tspan><tspan class="cls-86" x="63.85" y="0">r</tspan><tspan x="66.63" y="0">.aws/#/estima</tspan><tspan class="cls-126" x="121.34" y="0">t</tspan><tspan x="124.1" y="0">e</tspan></text>
+      <text class="cls-77" transform="translate(1896 790)"><tspan x="0" y="0">4 of 4</tspan></text>
+      <text class="cls-77" transform="translate(2434.67 790)"><tspan x="0" y="0">03/06/2024, 21:02</tspan></text>
+    </g>
+  </g>
+</svg>

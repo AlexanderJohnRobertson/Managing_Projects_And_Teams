@@ -23,6 +23,10 @@ def HRMSGanttChart():
 def kanban_chart():
     return render_template('kanbanchart.html')
 
+@app.route('/sequenceactivitydiagram')
+def sequence_activity_diagram():
+    return render_template('sequenceactivitydiagram.html')
+
 
 if __name__ == '__main__':
     app.run()

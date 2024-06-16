@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 612.03 2323.45">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        letter-spacing: .01em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: .03em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 1.46em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-18 {
+        font-family: Calibri-Bold, Calibri;
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24 {
+        fill: #16191f;
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-22, .cls-25 {
+        font-size: 10.5px;
+      }
+
+      .cls-18, .cls-19, .cls-21, .cls-23, .cls-24 {
+        font-weight: 700;
+      }
+
+      .cls-26 {
+        fill: #0073bb;
+        font-size: 9px;
+      }
+
+      .cls-26, .cls-20, .cls-25 {
+        font-family: AmazonEmber-Regular, 'AmazonEmber Regular';
+      }
+
+      .cls-27 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-28 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-29 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-30 {
+        isolation: isolate;
+      }
+
+      .cls-31 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: .01em;
+      }
+
+      .cls-34 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-35 {
+        letter-spacing: .02em;
+      }
+
+      .cls-36 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-37 {
+        stroke-linejoin: round;
+      }
+
+      .cls-37, .cls-38, .cls-39, .cls-40 {
+        fill: none;
+      }
+
+      .cls-37, .cls-39, .cls-40 {
+        stroke: #0073bb;
+        stroke-width: 1.5px;
+      }
+
+      .cls-19, .cls-21, .cls-23, .cls-24 {
+        font-family: AmazonEmber-Bold, 'AmazonEmber Bold';
+      }
+
+      .cls-41 {
+        letter-spacing: .03em;
+      }
+
+      .cls-38, .cls-42, .cls-43 {
+        stroke-width: 0px;
+      }
+
+      .cls-44 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-45 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-46 {
+        letter-spacing: 0em;
+      }
+
+      .cls-47 {
+        fill: #000;
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+        font-size: 10px;
+      }
+
+      .cls-48 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-49 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-50 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-51 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-52 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-53 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-21 {
+        font-size: 15.75px;
+      }
+
+      .cls-54 {
+        letter-spacing: 0em;
+      }
+
+      .cls-55 {
+        letter-spacing: 0em;
+      }
+
+      .cls-56 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-57 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-58 {
+        letter-spacing: 0em;
+      }
+
+      .cls-59 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-60 {
+        letter-spacing: 0em;
+      }
+
+      .cls-61 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-62 {
+        letter-spacing: 4.05em;
+      }
+
+      .cls-63 {
+        letter-spacing: 0em;
+      }
+
+      .cls-64 {
+        letter-spacing: 0em;
+      }
+
+      .cls-65 {
+        letter-spacing: .02em;
+      }
+
+      .cls-66 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-67 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-22 {
+        font-family: Calibri, Calibri;
+      }
+
+      .cls-68 {
+        letter-spacing: 0em;
+      }
+
+      .cls-69 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-70 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-71 {
+        letter-spacing: 4.05em;
+      }
+
+      .cls-72 {
+        letter-spacing: 0em;
+      }
+
+      .cls-73 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        font-size: 8.71px;
+      }
+
+      .cls-74 {
+        letter-spacing: .01em;
+      }
+
+      .cls-75 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-76 {
+        letter-spacing: 0em;
+      }
+
+      .cls-77 {
+        letter-spacing: 0em;
+      }
+
+      .cls-78 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-79 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-80 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-81 {
+        letter-spacing: .01em;
+      }
+
+      .cls-82 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        fill: #fff;
+      }
+
+      .cls-83 {
+        letter-spacing: 0em;
+      }
+
+      .cls-84 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-85 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-86 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-25 {
+        fill: #050606;
+      }
+
+      .cls-43 {
+        fill: #d5dbdb;
+      }
+
+      .cls-87 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-88 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-89 {
+        letter-spacing: 0em;
+      }
+
+      .cls-90 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-91 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-92 {
+        letter-spacing: 0em;
+      }
+
+      .cls-93 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-94 {
+        letter-spacing: 2.05em;
+      }
+
+      .cls-95 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        font-size: 12.29px;
+      }
+
+      .cls-40 {
+        stroke-linecap: square;
+      }
+
+      .cls-96 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-97 {
+        letter-spacing: .04em;
+      }
+
+      .cls-98 {
+        letter-spacing: .04em;
+      }
+
+      .cls-99 {
+        letter-spacing: .04em;
+      }
+
+      .cls-100 {
+        letter-spacing: -.02em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-38" x="36" y="27.66" width="540" height="735.3"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-38" x="66" y="41.91" width="165" height="24.45"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-38" x="66" y="41.11" width="165" height="26.31"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-38" x="540" y="42.41" width="6" height="5.9"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-38" x="537" y="42.41" width="9" height="8.9"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-38" x="534" y="42.41" width="12" height="11.9"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-38" x="179.62" y="206.11" width="1.5" height="78.01"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-38" x="341.12" y="206.11" width="1.5" height="78.01"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-38" x="66" y="490.2" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-38" x="66" y="638.7" width="480" height="1.5"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-38" x="177" y="350.7" width="1.5" height="24"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-38" x="265.5" y="350.7" width="1.5" height="24"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-38" x="354" y="350.7" width="1.5" height="24"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-38" x="442.5" y="350.7" width="1.5" height="24"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-38" x="73" y="753.31" width="446" height="9.65"/>
+    </clipPath>
+  </defs>
+  <g class="cls-30">
+    <g class="cls-70">
+      <rect class="cls-42" x="36" y="27.66" width="540" height="2295.79"/>
+      <rect class="cls-42" x="36" y="27.66" width="540" height="2295.79"/>
+      <rect class="cls-43" x="66" y="75.36" width="480" height="1.5"/>
+      <rect class="cls-43" x="66" y="156.36" width="478.5" height="1.5"/>
+      <rect class="cls-43" x="544.5" y="156.36" width="1.5" height="127.76"/>
+      <rect class="cls-43" x="67.5" y="284.12" width="478.5" height="1.5"/>
+      <rect class="cls-43" x="66" y="157.86" width="1.5" height="127.76"/>
+      <text class="cls-21" transform="translate(75 183.94)"><tspan x="0" y="0">Estimate summa</tspan><tspan class="cls-97" x="108.83" y="0">r</tspan><tspan x="114.58" y="0">y</tspan></text>
+      <g class="cls-48">
+        <g class="cls-28">
+          <image width="621" height="99" transform="translate(66 41.11) scale(.27)" xlink:href="data:image/png;base64,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"/>
+        </g>
+      </g>
+      <text class="cls-20" transform="translate(308.04 51.41)"><tspan x="0" y="0">Conta</tspan><tspan class="cls-74" x="26.22" y="0">c</tspan><tspan x="31.03" y="0">t </tspan><tspan class="cls-11" x="36.73" y="0">y</tspan><tspan x="41.58" y="0">our </tspan><tspan class="cls-27" x="58.79" y="0">A</tspan><tspan x="64.73" y="0">WS </tspan><tspan class="cls-11" x="81.02" y="0">r</tspan><tspan x="84.36" y="0">ep</tspan><tspan class="cls-51" x="95.59" y="0">r</tspan><tspan x="98.92" y="0">esentati</tspan><tspan class="cls-51" x="133.89" y="0">v</tspan><tspan x="138.84" y="0">e:</tspan></text>
+      <text class="cls-26" transform="translate(476.35 51.41)"><tspan x="0" y="0">Conta</tspan><tspan class="cls-89" x="22.47" y="0">c</tspan><tspan x="26.59" y="0">t Sales</tspan></text>
+      <text class="cls-26" transform="translate(531.64 51.41)"><tspan x="0" y="0"> </tspan></text>
+    </g>
+    <g class="cls-75">
+      <polyline class="cls-40" points="541.5 43.81 544.5 43.81 544.5 46.81"/>
+    </g>
+    <g class="cls-49">
+      <line class="cls-39" x1="538.5" y1="49.81" x2="544.5" y2="43.81"/>
+    </g>
+    <g class="cls-86">
+      <polyline class="cls-37" points="544.5 49.1 544.5 52.81 535.5 52.81 535.5 43.81 539.25 43.81"/>
+    </g>
+    <text class="cls-20" transform="translate(66 96.11)"><tspan x="0" y="0">Expo</tspan><tspan class="cls-10" x="21.77" y="0">r</tspan><tspan x="25.51" y="0">t date:</tspan></text>
+    <text class="cls-19" transform="translate(126.91 96.11)"><tspan x="0" y="0">03/06/2</tspan><tspan class="cls-46" x="34.13" y="0">0</tspan><tspan class="cls-58" x="39.5" y="0">24</tspan></text>
+    <text class="cls-20" transform="translate(457.78 96.11)"><tspan x="0" y="0">Language:</tspan></text>
+    <text class="cls-19" transform="translate(509.63 96.11)"><tspan x="0" y="0">English</tspan></text>
+    <text class="cls-20" transform="translate(66 127.61)"><tspan x="0" y="0">Estimate UR</tspan><tspan class="cls-2" x="52.48" y="0">L</tspan><tspan x="57.55" y="0">:</tspan></text>
+    <text class="cls-19" transform="translate(135.17 127.61)"><tspan x="0" y="0">h</tspan><tspan class="cls-65" x="5.83" y="0">t</tspan><tspan x="9.5" y="0">tps:/</tspan><tspan class="cls-17" x="28.88" y="0">/</tspan><tspan x="31.88" y="0">ca</tspan><tspan class="cls-11" x="41.64" y="0">l</tspan><tspan x="44.03" y="0">culato</tspan><tspan class="cls-96" x="71.29" y="0">r</tspan><tspan x="74.19" y="0">.</tspan><tspan class="cls-100" x="76.36" y="0">a</tspan><tspan x="81.24" y="0">ws/#</tspan><tspan class="cls-8" x="101.94" y="0">/</tspan><tspan x="104.91" y="0">estimate?</tspan></text>
+    <text class="cls-19" transform="translate(66 144.11)"><tspan x="0" y="0">id=25320</tspan><tspan class="cls-35" x="41.57" y="0">c</tspan><tspan x="46.46" y="0">f1aa5a7e7a501c19b9c06</tspan><tspan class="cls-46" x="155.05" y="0">c</tspan><tspan x="159.73" y="0">4d01b1a48f1d</tspan></text>
+    <g class="cls-36">
+      <rect class="cls-43" x="179.62" y="206.11" width="1.5" height="78.01"/>
+    </g>
+    <text class="cls-23" transform="translate(75 217.36)"><tspan x="0" y="0">Upfront </tspan><tspan class="cls-55" x="30.34" y="0">c</tspan><tspan x="34.18" y="0">ost</tspan></text>
+    <text class="cls-19" transform="translate(75 248.91)"><tspan x="0" y="0">52,034.40 USD</tspan></text>
+    <g class="cls-44">
+      <rect class="cls-43" x="341.12" y="206.11" width="1.5" height="78.01"/>
+    </g>
+    <text class="cls-23" transform="translate(196.12 217.36)"><tspan x="0" y="0">Monthl</tspan><tspan class="cls-77" x="26.4" y="0">y</tspan><tspan x="30.53" y="0"> </tspan><tspan class="cls-14" x="32.38" y="0">c</tspan><tspan x="36.21" y="0">ost</tspan></text>
+    <text class="cls-19" transform="translate(196.12 248.91)"><tspan x="0" y="0">44,968.42 USD</tspan></text>
+    <text class="cls-23" transform="translate(357.62 217.36)"><tspan class="cls-88" x="0" y="0">T</tspan><tspan x="3.91" y="0">otal 12 mont</tspan><tspan class="cls-92" x="50.24" y="0">h</tspan><tspan x="55.1" y="0">s </tspan><tspan class="cls-54" x="60.39" y="0">c</tspan><tspan x="64.23" y="0">ost</tspan></text>
+    <text class="cls-19" transform="translate(357.62 248.91)"><tspan x="0" y="0">591,655.44 USD</tspan></text>
+    <text class="cls-20" transform="translate(357.62 279.37)"><tspan x="0" y="0">Includes upf</tspan><tspan class="cls-51" x="53.7" y="0">r</tspan><tspan x="57.02" y="0">ont </tspan><tspan class="cls-31" x="74.32" y="0">c</tspan><tspan x="78.88" y="0">ost</tspan></text>
+    <rect class="cls-43" x="66" y="349.2" width="480" height="1.5"/>
+    <rect class="cls-43" x="66" y="374.7" width="480" height="1.5"/>
+    <g class="cls-79">
+      <rect class="cls-43" x="66" y="490.2" width="480" height="1.5"/>
+    </g>
+    <g class="cls-69">
+      <rect class="cls-43" x="66" y="638.7" width="480" height="1.5"/>
+    </g>
+    <text class="cls-24" transform="translate(66 332.91)"><tspan x="0" y="0">Detai</tspan><tspan class="cls-3" x="27.2" y="0">l</tspan><tspan x="29.99" y="0">ed Estimate</tspan></text>
+    <text class="cls-19" transform="translate(73.5 366.2)"><tspan x="0" y="0">Name</tspan></text>
+    <g class="cls-93">
+      <rect class="cls-43" x="177" y="350.7" width="1.5" height="24"/>
+    </g>
+    <text class="cls-20" transform="translate(228.59 366.2)"><tspan x="0" y="0">G</tspan><tspan class="cls-64" x="6.78" y="0">r</tspan><tspan class="cls-16" x="10.12" y="0">oup</tspan></text>
+    <g class="cls-6">
+      <rect class="cls-43" x="265.5" y="350.7" width="1.5" height="24"/>
+    </g>
+    <text class="cls-20" transform="translate(313.59 366.2)"><tspan class="cls-12" x="0" y="0">R</tspan><tspan x="5.56" y="0">egion</tspan></text>
+    <g class="cls-57">
+      <rect class="cls-43" x="354" y="350.7" width="1.5" height="24"/>
+    </g>
+    <text class="cls-20" transform="translate(375.28 366.2)"><tspan x="0" y="0">Upf</tspan><tspan class="cls-51" x="15.83" y="0">r</tspan><tspan x="19.16" y="0">ont </tspan><tspan class="cls-31" x="36.46" y="0">c</tspan><tspan class="cls-73" x="41.01" y="0">ost</tspan></text>
+    <g class="cls-29">
+      <rect class="cls-43" x="442.5" y="350.7" width="1.5" height="24"/>
+    </g>
+    <text class="cls-20" transform="translate(461.79 366.2)"><tspan x="0" y="0">Monthly </tspan><tspan class="cls-31" x="38.99" y="0">c</tspan><tspan x="43.54" y="0">ost</tspan></text>
+    <text class="cls-19" transform="translate(73.5 391.7)"><tspan x="0" y="0">Ama</tspan><tspan class="cls-4" x="20.24" y="0">z</tspan><tspan x="24.65" y="0">on </tspan><tspan class="cls-5" x="38.47" y="0">E</tspan><tspan x="43.44" y="0">C2</tspan></text>
+    <text class="cls-20" transform="translate(211.92 391.7)"><tspan x="0" y="0">No g</tspan><tspan class="cls-11" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+    <text class="cls-20" transform="translate(221.12 408.2)"><tspan x="0" y="0">applied</tspan></text>
+    <text class="cls-20" transform="translate(284.67 391.7)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-13" x="51.23" y="0">)</tspan><tspan class="cls-73" x="69.54" y="0">52,034.40</tspan><tspan class="cls-82" x="111.59" y="0"> </tspan><tspan x="113.79" y="0">US</tspan><tspan class="cls-62" x="125.76" y="0">D</tspan><tspan class="cls-73" x="175.31" y="0">0.00 USD</tspan></text>
+    <text class="cls-19" transform="translate(73.5 432.2)"><tspan x="0" y="0">Status</tspan></text>
+    <text class="cls-20" transform="translate(104.62 432.2)"><tspan x="0" y="0">: </tspan></text>
+    <text class="cls-25" transform="translate(109.98 432.2)"><tspan x="0" y="0">-</tspan></text>
+    <text class="cls-19" transform="translate(73.5 448.7)"><tspan x="0" y="0">Description</tspan></text>
+    <text class="cls-20" transform="translate(129.97 448.7)"><tspan x="0" y="0">:</tspan></text>
+    <text class="cls-19" transform="translate(73.5 465.2)"><tspan x="0" y="0">Con</tspan></text>
+    <text class="cls-19" transform="translate(92.62 465.2)"><tspan x="0" y="0">ﬁ</tspan></text>
+    <text class="cls-19" transform="translate(99.52 465.2)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-98" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+    <text class="cls-20" transform="translate(154.8 465.2)"><tspan x="0" y="0">: </tspan></text>
+    <text class="cls-25" transform="translate(160.15 465.2)"><tspan class="cls-59" x="0" y="0">T</tspan><tspan x="4.65" y="0">enan</tspan><tspan class="cls-7" x="26.63" y="0">c</tspan><tspan x="31.44" y="0">y (Dedicated Hosts), </tspan><tspan class="cls-87" x="120.65" y="0">W</tspan><tspan x="129.25" y="0">orkload </tspan><tspan class="cls-51" x="164.83" y="0">(</tspan><tspan x="167.7" y="0">Consistent, Number of instan</tspan><tspan class="cls-1" x="294.8" y="0">c</tspan><tspan x="299.35" y="0">es: 1),</tspan></text>
+    <text class="cls-25" transform="translate(73.5 481.7)"><tspan class="cls-83" x="0" y="0">A</tspan><tspan class="cls-58" x="6.32" y="0">dvan</tspan><tspan class="cls-90" x="28.18" y="0">c</tspan><tspan class="cls-58" x="32.75" y="0">e </tspan><tspan class="cls-78" x="40.24" y="0">E</tspan><tspan x="45.19" y="0">C2 instan</tspan><tspan class="cls-90" x="85.7" y="0">c</tspan><tspan x="90.27" y="0">e (r6g), Pr</tspan><tspan class="cls-46" x="131.83" y="0">i</tspan><tspan class="cls-16" x="134.26" y="0">cing strategy </tspan><tspan class="cls-83" x="193.25" y="0">(</tspan><tspan x="196.13" y="0">Compute S</tspan><tspan class="cls-85" x="244.63" y="0">a</tspan><tspan class="cls-73" x="249.54" y="0">vings Plans 3yr All</tspan><tspan class="cls-72" x="327.84" y="0"> </tspan><tspan x="330.04" y="0">Upf</tspan><tspan class="cls-11" x="345.87" y="0">r</tspan><tspan x="349.21" y="0">ont)</tspan></text>
+    <text class="cls-19" transform="translate(73.5 507.2)"><tspan x="0" y="0">Ama</tspan><tspan class="cls-4" x="20.24" y="0">z</tspan><tspan x="24.65" y="0">on R</tspan><tspan class="cls-83" x="44.12" y="0">D</tspan><tspan class="cls-58" x="51.01" y="0">S for</tspan></text>
+    <text class="cls-19" transform="translate(73.5 523.7)"><tspan class="cls-64" x="0" y="0">S</tspan><tspan x="5.08" y="0">QL se</tspan><tspan class="cls-99" x="28.92" y="0">r</tspan><tspan class="cls-64" x="32.76" y="0">v</tspan><tspan x="37.72" y="0">er</tspan></text>
+    <text class="cls-20" transform="translate(211.92 507.2)"><tspan x="0" y="0">No g</tspan><tspan class="cls-11" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+    <text class="cls-20" transform="translate(221.12 523.7)"><tspan x="0" y="0">applied</tspan></text>
+    <text class="cls-20" transform="translate(284.67 507.2)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-71" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-94" x="129.27" y="0">D</tspan><tspan class="cls-73" x="157.76" y="0">7,100.4</tspan><tspan class="cls-76" x="189.04" y="0">0</tspan><tspan x="194.39" y="0" xml:space="preserve"> USD</tspan></text>
+    <text class="cls-19" transform="translate(73.5 547.7)"><tspan x="0" y="0">Status</tspan></text>
+    <text class="cls-20" transform="translate(104.62 547.7)"><tspan x="0" y="0">: </tspan></text>
+    <text class="cls-25" transform="translate(109.98 547.7)"><tspan x="0" y="0">-</tspan></text>
+    <text class="cls-19" transform="translate(73.5 564.2)"><tspan x="0" y="0">Description</tspan></text>
+    <text class="cls-20" transform="translate(129.97 564.2)"><tspan x="0" y="0">:</tspan></text>
+    <text class="cls-19" transform="translate(73.5 580.7)"><tspan x="0" y="0">Con</tspan></text>
+    <text class="cls-19" transform="translate(92.62 580.7)"><tspan x="0" y="0">ﬁ</tspan></text>
+    <text class="cls-18" transform="translate(99.52 580.7)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-98" x="39.44" y="0">r</tspan><tspan x="43.59" y="0">y</tspan></text>
+    <text class="cls-20" transform="translate(154.8 580.7)"><tspan x="0" y="0">: </tspan></text>
+    <text class="cls-25" transform="translate(160.15 580.7)"><tspan x="0" y="0">Storage amount (100 GB), Nodes (2)</tspan><tspan class="cls-95" x="155.98" y="0">,</tspan><tspan x="158.13" y="0" xml:space="preserve"> Instan</tspan><tspan class="cls-90" x="187.21" y="0">c</tspan><tspan x="191.78" y="0">e </tspan><tspan class="cls-33" x="199.27" y="0">t</tspan><tspan x="202.89" y="0">ype </tspan><tspan class="cls-51" x="221.29" y="0">(</tspan><tspan class="cls-32" x="224.17" y="0">db.m4.xla</tspan><tspan class="cls-51" x="266.96" y="0">r</tspan><tspan class="cls-32" x="270.29" y="0">ge), Utilization</tspan></text>
+    <text class="cls-25" transform="translate(73.5 597.2)"><tspan class="cls-83" x="0" y="0">(</tspan><tspan x="2.88" y="0">On-Demand onl</tspan><tspan class="cls-81" x="73.28" y="0">y</tspan><tspan x="78.35" y="0">) (100 %Utili</tspan><tspan class="cls-15" x="130.9" y="0">z</tspan><tspan class="cls-58" x="135.28" y="0">ed/Month), Depl</tspan><tspan class="cls-83" x="207.49" y="0">o</tspan><tspan x="213.15" y="0">yment option (Multi</tspan><tspan class="cls-56" x="300.75" y="0">-</tspan><tspan class="cls-32" x="303.85" y="0">AZ), Li</tspan><tspan class="cls-1" x="330.88" y="0">c</tspan><tspan x="335.43" y="0">ense (Li</tspan><tspan class="cls-61" x="368.55" y="0">c</tspan><tspan x="373.1" y="0">ense</tspan></text>
+    <text class="cls-25" transform="translate(73.5 613.7)"><tspan x="0" y="0">included), Database edition (Enterprise)</tspan><tspan class="cls-46" x="172.81" y="0">,</tspan><tspan x="174.96" y="0" xml:space="preserve"> Pricing strategy </tspan><tspan class="cls-51" x="247.65" y="0">(</tspan><tspan x="250.53" y="0">OnDemand), Storage for each R</tspan><tspan class="cls-68" x="388.27" y="0">D</tspan><tspan class="cls-73" x="395.16" y="0">S</tspan></text>
+    <text class="cls-25" transform="translate(73.5 630.2)"><tspan x="0" y="0">instan</tspan><tspan class="cls-90" x="26.81" y="0">c</tspan><tspan x="31.37" y="0">e </tspan><tspan class="cls-83" x="38.86" y="0">(</tspan><tspan class="cls-58" x="41.74" y="0">General Purp</tspan><tspan class="cls-95" x="98.85" y="0">o</tspan><tspan x="104.59" y="0">se </tspan><tspan class="cls-11" x="116.23" y="0">S</tspan><tspan class="cls-58" x="121.31" y="0">SD </tspan><tspan class="cls-11" x="135.71" y="0">(</tspan><tspan x="138.6" y="0">gp2)), </tspan><tspan class="cls-91" x="166.19" y="0">A</tspan><tspan x="172.5" y="0">dditional backup storage (100 GB)</tspan></text>
+    <text class="cls-19" transform="translate(73.5 655.7)"><tspan x="0" y="0">Elastic Load</tspan></text>
+    <text class="cls-19" transform="translate(73.5 672.2)"><tspan x="0" y="0">Balancing</tspan></text>
+    <text class="cls-20" transform="translate(211.92 655.7)"><tspan x="0" y="0">No g</tspan><tspan class="cls-11" x="20.77" y="0">r</tspan><tspan x="24.11" y="0">oup</tspan></text>
+    <text class="cls-22" transform="translate(221.12 672.2)"><tspan x="0" y="0">applied</tspan></text>
+    <text class="cls-20" transform="translate(284.67 655.7)"><tspan x="0" y="0">EU (London</tspan><tspan class="cls-71" x="51.23" y="0">)</tspan><tspan x="96.75" y="0">0.00 US</tspan><tspan class="cls-94" x="129.27" y="0">D</tspan><tspan class="cls-73" x="157.76" y="0">3,042.5</tspan><tspan class="cls-76" x="189.04" y="0">6</tspan><tspan x="194.39" y="0" xml:space="preserve"> USD</tspan></text>
+    <text class="cls-19" transform="translate(73.5 696.2)"><tspan x="0" y="0">Status</tspan></text>
+    <text class="cls-22" transform="translate(104.62 696.2)"><tspan x="0" y="0">: </tspan></text>
+    <text class="cls-25" transform="translate(109.98 696.2)"><tspan x="0" y="0">-</tspan></text>
+    <text class="cls-19" transform="translate(73.5 712.7)"><tspan x="0" y="0">Description</tspan></text>
+    <text class="cls-22" transform="translate(129.97 712.7)"><tspan x="0" y="0">:</tspan></text>
+    <text class="cls-19" transform="translate(73.5 729.2)"><tspan x="0" y="0">Con</tspan></text>
+    <text class="cls-19" transform="translate(92.62 729.2)"><tspan x="0" y="0">ﬁ</tspan></text>
+    <text class="cls-19" transform="translate(99.52 729.2)"><tspan x="0" y="0">g summa</tspan><tspan class="cls-98" x="40.61" y="0">r</tspan><tspan x="44.47" y="0">y</tspan></text>
+    <text class="cls-20" transform="translate(154.8 729.2)"><tspan x="0" y="0">: </tspan></text>
+    <text class="cls-25" transform="translate(160.15 729.2)"><tspan x="0" y="0">Number of Ap</tspan><tspan class="cls-63" x="61.8" y="0">p</tspan><tspan x="67.74" y="0">lication Load Balan</tspan><tspan class="cls-31" x="150.24" y="0">c</tspan><tspan class="cls-73" x="154.8" y="0">ers (2) Numbe</tspan><tspan class="cls-95" x="216.14" y="0">r</tspan><tspan x="219.55" y="0" xml:space="preserve"> of Ne</tspan><tspan class="cls-33" x="245" y="0">t</tspan><tspan class="cls-11" x="248.63" y="0">w</tspan><tspan x="256.26" y="0">ork Load Balan</tspan><tspan class="cls-1" x="320.65" y="0">c</tspan><tspan x="325.2" y="0">ers</tspan></text>
+    <text class="cls-25" transform="translate(73.5 745.7)"><tspan x="0" y="0">(3), P</tspan><tspan class="cls-83" x="21.34" y="0">r</tspan><tspan class="cls-16" x="24.66" y="0">o</tspan><tspan class="cls-34" x="30.43" y="0">c</tspan><tspan class="cls-58" x="34.97" y="0">essed </tspan><tspan class="cls-83" x="61.96" y="0">b</tspan><tspan class="cls-41" x="67.83" y="0">y</tspan><tspan class="cls-16" x="73.05" y="0">tes per NLB for </tspan><tspan class="cls-50" x="139.33" y="0">T</tspan><tspan x="144.23" y="0">CP (10 GB pe</tspan><tspan class="cls-46" x="200.04" y="0">r</tspan><tspan class="cls-16" x="203.45" y="0" xml:space="preserve"> hour), </tspan><tspan class="cls-66" x="233.87" y="0">A</tspan><tspan class="cls-51" x="240.04" y="0">v</tspan><tspan class="cls-73" x="244.98" y="0">erage numbe</tspan><tspan class="cls-95" x="303.7" y="0">r</tspan><tspan class="cls-32" x="307.11" y="0" xml:space="preserve"> of new </tspan><tspan class="cls-9" x="341.43" y="0">T</tspan><tspan x="346.34" y="0">CP </tspan><tspan class="cls-90" x="360.24" y="0">c</tspan><tspan x="364.8" y="0">onne</tspan><tspan class="cls-60" x="387.48" y="0">c</tspan><tspan x="392.28" y="0">tions</tspan></text>
+    <g class="cls-84">
+      <text class="cls-25" transform="translate(73.5 762.2)"><tspan x="0" y="0">(10 per se</tspan><tspan class="cls-80" x="42.29" y="0">c</tspan><tspan x="46.82" y="0">ond), </tspan><tspan class="cls-52" x="71.71" y="0">A</tspan><tspan class="cls-83" x="77.89" y="0">v</tspan><tspan x="82.83" y="0">erage </tspan><tspan class="cls-50" x="109.94" y="0">T</tspan><tspan x="114.84" y="0">CP </tspan><tspan class="cls-45" x="128.74" y="0">c</tspan><tspan x="133.29" y="0">onne</tspan><tspan class="cls-7" x="155.97" y="0">c</tspan><tspan x="160.78" y="0">tion duration (480 minutes), P</tspan><tspan class="cls-91" x="290.54" y="0">r</tspan><tspan x="293.86" y="0">o</tspan><tspan class="cls-61" x="299.62" y="0">c</tspan><tspan x="304.17" y="0">essed </tspan><tspan class="cls-11" x="331.15" y="0">b</tspan><tspan class="cls-41" x="337.03" y="0">y</tspan><tspan x="342.25" y="0">tes per NLB for</tspan></text>
+    </g>
+    <text class="cls-47" transform="translate(0 8.31)"><tspan x="0" y="0">My Estimate - </tspan><tspan class="cls-67" x="59.71" y="0">A</tspan><tspan x="66.12" y="0">WS Pricing Calculator</tspan></text>
+    <text class="cls-47" transform="translate(483.49 8.31)"><tspan x="0" y="0">https://ca</tspan><tspan class="cls-72" x="36.66" y="0">l</tspan><tspan x="39.42" y="0">culato</tspan><tspan class="cls-53" x="63.85" y="0">r</tspan><tspan x="66.63" y="0">.aws/#/estima</tspan><tspan class="cls-72" x="121.34" y="0">t</tspan><tspan x="124.1" y="0">e</tspan></text>
+    <text class="cls-47" transform="translate(0 789.31)"><tspan x="0" y="0">1 of 4</tspan></text>
+    <text class="cls-47" transform="translate(538.67 789.31)"><tspan x="0" y="0">03/06/2024, 21:02</tspan></text>
+  </g>
+</svg>
