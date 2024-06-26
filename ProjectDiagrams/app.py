@@ -21,7 +21,7 @@ def HRMSGanttChart():
 
 @app.route('/kanbanchart')
 def kanban_chart():
-    return render_template('Advanced Software Engineering/templates/AdvancedSoftwareEngineeringWireframe.html')
+    return render_template('kanbanchart.html')
 
 @app.route('/sequenceactivitydiagram')
 def sequence_activity_diagram():
